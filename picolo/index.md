@@ -5,7 +5,7 @@ keywords: pepř, pirátské-centrum, centrum
 title: PEPŘ - Pirátské epicentrum Přerov
 shorthand: PEPŘ
 openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
-heroHeadline: Zbrusu nové krajské pirátské centrum!
+heroHeadline: Zbrusu nové pirátské centrum PEPŘ!
 heroDescription: PEPŘ - Pirátské epicentrum Přerov
 heroImg: pepr-centrum-1.jpg
 img: pepr-centrum-1.jpg
