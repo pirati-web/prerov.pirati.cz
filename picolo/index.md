@@ -1,12 +1,12 @@
 ---
 layout: pirate-center
-description: PEPŘ- Pirátské epicentrum Přerov
+description: PEPŘ - Pirátské epicentrum Přerov
 keywords: pepř, pirátské-centrum, centrum
 title: PEPŘ - Pirátské epicentrum Přerov
-shorthand: Picolo
+shorthand: PEPŘ
 openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
 heroHeadline: Zbrusu nové krajské pirátské centrum!
-heroDescription: Picolo - Pirátské centrum Olomouc
+heroDescription: PEPŘ - Pirátské epicentrum Přerov
 heroImg: pepr-centrum-1.jpg
 img: pepr-centrum-1.jpg
 address: |
