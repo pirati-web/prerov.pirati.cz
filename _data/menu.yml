@@ -19,9 +19,9 @@ main:
   - link: /lide/
     name: Lidé
     match: lide
-  - link: /picolo/
+  - link: /pepr/
     name: Pirátské centrum
-    match: picolo    
+    match: pepr
   - link: /mistni-sdruzeni/
     name: Místní sdružení
     match: mistni-sdruzeni
