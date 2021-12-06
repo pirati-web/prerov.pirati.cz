@@ -25,12 +25,6 @@ Pirátské centrum slouží jako prostor pro širokou veřejnost a různorodé o
 
 PEPŘ je k dispozici zcela ZDARMA a pro akce nekomerčního charakteru. Vyhrazujeme si právo akci odmítnout.
 
-Adresa: Palackého 24, Přerov
-
 Otevírací doba: Po předchozí domluvě, pravidelná schůze místního sdružení každou 2. středu v měsíci od 18.00
-
-- Lenka Jüngling
-- správce PEPŘe
-- lenka.jugling@pirati.cz
 
 
