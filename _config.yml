@@ -5,32 +5,32 @@
 # technické nastavení
 #
 
-title: Piráti - Olomoucký kraj # To co je napsané na tabu ve kterém je stránka.
-email: olomoucky@pirati.cz
+title: Piráti - Přerov # To co je napsané na tabu ve kterém je stránka.
+email: prerov@pirati.cz
 description: >-
-  Česká pirátská strana - Krajské sdružení Olomoucký kraj
+  Česká pirátská strana - Přerov
 # dobré keywords jsou ty co lidé piší do googlu když hledají naši stránku
-keywords: krajské sdružení, olomoucký, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost
+keywords: přerov, piráti, česká pirátská strana, politická strana, politika, demokracie, svoboda, otevřenost, transparentnost
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://olomoucky.pirati.cz" # the base hostname & protocol for your site
+url: "https://prerov.pirati.cz" # the base hostname & protocol for your site
 
-mediaStorage: olomoucky
+mediaStorage: prerov
 
 administrator:
   email: jan.suchanek@gmail.com, honza.dvorak@pirati.cz, jaromirhorky14@gmail.com
 
 organization:
-  name: Piráti - Olomoucký kraj
-  shortName: Piráti - Olomoucký kraj
-  email: olomoucky@pirati.cz
+  name: Piráti - Přerov
+  shortName: Piráti - Přerov
+  email: prerov@pirati.cz
   phone: +420 778 111 488
   address: |
     Picolo Olomouc
     8. května 522/5,
     779 00 Olomouc
-  residenceImg: https://a.pirati.cz/olomoucky/img/pice-mapa.png
+  residenceImg: https://a.pirati.cz/prrov/img/pice-mapa.png
   mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
-  redmineLink: https://redmine.pirati.cz/projects/olomoucky
+  redmineLink: https://redmine.pirati.cz/projects/prerov
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
 
@@ -62,8 +62,8 @@ calendar:
 facebook:
   loadSDK: true
   #vyplně adresu vaší stranky, funguje pouze na stránky nikoliv skupiny
-  profilePage: https://www.facebook.com/piratiOlomoucko/
-  profilePageName: Piráti - Olomoucký kraj
+  profilePage: https://www.facebook.com/PiratiPrerov
+  profilePageName: Piráti - Přerov
   #appId: 1526197851008996
 
 twitter:
@@ -80,10 +80,10 @@ flicker:
   #profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/olomoucky-kraj-f276/
+  page: https://forum.pirati.cz/viewforum.php?f=655
 
 github:
-  url: https://github.com/pirati-web/olomoucky.pirati.cz/
+  url: https://github.com/pirati-web/prerov.pirati.cz/
   branch: master
 
 youtube:
