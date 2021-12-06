@@ -15,7 +15,7 @@ address: |
   750 02 Přerov
 addressNote:
 contactPersons:
-  - id: lenka.jugling
+  - id: jugling.lenka
     description: správce PEPŘe
 residenceImg: https://a.pirati.cz/olomoucky/img/miscellaneous/picolo.jpg
 mapIframeLink: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2593.649186725416!2d17.44574391526461!3d49.4533471665848!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4713af92013e7b5b%3A0x38dd0a27ee56101c!2zUEVQxZggLSBQaXLDoXRza8OpIGNlbnRydW0gUMWZZXJvdg!5e0!3m2!1scs!2scz!4v1638823231335!5m2!1scs!2scz
