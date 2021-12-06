@@ -174,7 +174,7 @@ assets:
       - "last 2 versions"
       - "IE > 9"
   sources:
-    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.1/_sass
+    - vendor/bundle/ruby/2.5.0/gems/jekyll-theme-pirati-8.4.6/assets/img
     - assets/css
     - assets/fonts
     - assets/video
