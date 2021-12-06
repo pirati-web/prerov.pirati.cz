@@ -7,8 +7,8 @@ shorthand: Picolo
 openingHoursSEO: Mo Pondělí 9-13 hodin, mimo tuto dobu po domluvě
 heroHeadline: Zbrusu nové krajské pirátské centrum!
 heroDescription: Picolo - Pirátské centrum Olomouc
-heroImg: miscellaneous/picolo.jpg
-img: miscellaneous/picolo.jpg
+heroImg: pepr-centrum-1.jpg
+img: pepr-centrum-1.jpg
 address: |
   PEPŘ - Pirátské epicentrum Přerov
   Palackého 24
