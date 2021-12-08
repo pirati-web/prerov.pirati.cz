@@ -99,7 +99,7 @@
               {% endfor %}
             {% else %}
               {% assign contactPerson = site.people | where_exp: "item","item.uid contains site.organization.contactUid" | first %}
-              {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordpak" %}
+              {% assign contactPersons = site.people | where_exp: "item","item.category contains 'kontaktni_osoba'" | sort:"ordkon" %}
               {% unless contactPersons == empty or contactPersons == blank or contactPersons == nil %}
                 {% for person in contactPersons %}
                   {% include people/profile-badge.html item=person %}
