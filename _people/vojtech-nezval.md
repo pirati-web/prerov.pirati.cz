@@ -5,6 +5,7 @@ fullname: Vojtěch Nezval   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 - predsedove-ms
+- kontaktni_osoba
 position: Předseda místního sdružení
 img: people/vojtech-nezval.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
