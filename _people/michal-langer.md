@@ -18,7 +18,7 @@ profiles:
   facebook: 
   twitter:         
   flickr: 
-odrpak: 4
+odrkon: 4
 heroImg: banner-default.jpg
 published: true
 ---
