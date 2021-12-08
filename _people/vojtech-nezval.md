@@ -10,9 +10,9 @@ position: Předseda místního sdružení
 img: people/vojtech-nezval.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení               # kratký popis, max 160 znaků
-mail:
+mail: vojtech.nezval@pirati.cz
 - 
-mob:         
+mob: 601 083 738         
 profiles:
   github:
   facebook:       
