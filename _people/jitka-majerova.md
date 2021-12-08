@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: 2. místopředseda místního sdružení
 img: people/jitka-majerova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Místopředsedkyně místního sdružení Přerov               # kratký popis, max 160 znaků
+description: 2. místopředsedkyně místního sdružení Přerov               # kratký popis, max 160 znaků
 mail: jitka.majerova@pirati.cz
 mob: 
 profiles:
