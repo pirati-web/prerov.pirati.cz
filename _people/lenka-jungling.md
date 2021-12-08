@@ -4,7 +4,7 @@ name:     Lenka Jüngling          # běžně používáné jméno
 fullname: Ing. Lenka Jüngling   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - kontaktni_osoba
-position: Místopředseda místního sdružení
+position: Místopředseda místního sdružení, správce pirátského centra v Přerově
 img: people/lenka-jungling.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Místopředsedkyně místního sdružení Přerov                # kratký popis, max 160 znaků
