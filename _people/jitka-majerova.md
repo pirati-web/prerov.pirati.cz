@@ -4,7 +4,7 @@ name:     Jitka Majerová    # běžně používané jméno
 fullname: Jitka Majerová   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsedove-ms
-position: Místopředseda místního sdružení
+position: 2. místopředseda místního sdružení
 img: people/jitka-majerova.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Místopředsedkyně místního sdružení Přerov               # kratký popis, max 160 znaků
