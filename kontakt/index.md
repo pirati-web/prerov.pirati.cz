@@ -1,7 +1,7 @@
 ---
 layout: contacts
 residence: yes
-description: Pirátská strana je otevřená i ve Středočeském kraji, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
+description: Pirátská strana je otevřená i vPřerově, ráda přivítá dobrovolníky a odpoví na dotazy veřejnosti.
 keywords: kontakt, adresa, telefon, mail, facebook, kde najdu, kde jsou
 ---
 ## Přidejte se
@@ -12,7 +12,7 @@ Pokud se chcete zapojit a nevíte jak na to, koukněte na naši [stránku pro z�
 
 ## Kde nás najdete
 
-Využíváme [Pirátské centrum v Praze](https://praha.pirati.cz/pice/), ale pravidelně se scházíme na výjezdech po celém kraji. Schůze jsou vždy v kalendáři a jste na ně zváni. Dále pravidelně pořádáme setkání pro zájemce o členství nebo “Pivo s poslancem”, v našem kraji s Lenkou Kozlovou a Františkem Kopřivou.
+Využíváme [Pirátské centrum v Přerově](https://prerov.pirati.cz/pepr/). Schůze jsou vždy druhou středu v měsíci od 18:00 a jste na ně zváni.
 
 ## Další informace
 
