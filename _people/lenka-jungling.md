@@ -18,7 +18,7 @@ profiles:
   twitter:        
   flickr:       
 ordmis: 2
-heroImg: banner-default.jpg
+heroImg: banner_prerov.jpg
 published: true
 ---
 Ing. Lenka Jüngling (* 1989) je 1. místopředsedkyní MS Přerov. Zároveň je členkou výboru Olomouckého kraje pro regionální rozvoj a členkou komise Olomouckého kraje pro oblast rozvoje venkova a zemědělství. Vždy prohlašovala, že až se jednou usadí, zapojí se do politiky. Tomu předcházela studia, bydlení a brigády v zahraničí.
