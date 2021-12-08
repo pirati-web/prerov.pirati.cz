@@ -3,7 +3,7 @@ uid: lenka.jungling
 name:     Lenka Jüngling          # běžně používáné jméno
 fullname: Ing. Lenka Jüngling   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
--
+- kontaktni_osoba
 position: Místopředseda místního sdružení
 img: people/lenka-jungling.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
