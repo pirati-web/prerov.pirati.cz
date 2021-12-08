@@ -6,7 +6,6 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsednictvo
 - prerov-zastupitele
 - kraj-zastupitele
-- kontaktni_osoba
 position: Místopředseda krajského sdružení
 img: people/jaromir-horky.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
