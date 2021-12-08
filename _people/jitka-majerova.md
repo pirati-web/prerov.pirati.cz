@@ -16,7 +16,7 @@ profiles:
   twitter:         
   flickr: 
 ordmis: 3
-heroImg: banner-default.jpg
+heroImg: banner_prerov.jpg
 published: true
 ---
 
