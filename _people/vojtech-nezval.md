@@ -16,9 +16,9 @@ profiles:
   github:
   facebook:       
   twitter:        
-  flickr: 
+  flickr:
+orpak: 2 
 ordmis: 1
-orpak: 2
 heroImg: banner_prerov.jpg
 published: true
 ---
