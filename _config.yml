@@ -23,13 +23,13 @@ organization:
   name: Piráti - Přerov
   shortName: Piráti - Přerov
   email: prerov@pirati.cz
-  phone: +420 778 111 488
+  phone: +420 778 522 095
   address: |
-    Picolo Olomouc
-    8. května 522/5,
-    779 00 Olomouc
+    Pepř Přerov
+    Palackého 22,
+    750 02, Přerov
   residenceImg: https://a.pirati.cz/prrov/img/pice-mapa.png
-  mapLink: https://en.mapy.cz/zakladni?x=14.4153018&y=50.0734551&z=17&source=addr&id=9018965&q=Na%20Mor%C3%A1ni%203%2C%20Praha%202
+  mapLink: https://www.google.com/maps/place/PEPŘ+-+Pirátské+centrum+Přerov/@49.4533437,17.4457439,17z/data=!3m1!4b1!4m5!3m4!1s0x4713af92013e7b5b:0x38dd0a27ee56101c!8m2!3d49.4533245!4d17.4478835
   redmineLink: https://redmine.pirati.cz/projects/prerov
   dataBoxId: b2i4r6j
   transparentAccount: 2100048174/2010
@@ -80,7 +80,7 @@ flicker:
   #profilePage: https://www.flickr.com/photos/pirati/
 
 forum:
-  page: https://forum.pirati.cz/viewforum.php?f=655
+  page: https://forum.pirati.cz/viewforum.php?f=666
 
 github:
   url: https://github.com/pirati-web/prerov.pirati.cz/
