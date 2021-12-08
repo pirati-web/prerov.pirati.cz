@@ -17,7 +17,7 @@ profiles:
   facebook:       
   twitter:        
   flickr: 
-ordpak: 3      
+ordkon: 3      
 ordmis: 2
 heroImg: banner_prerov.jpg
 published: true
