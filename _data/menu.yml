@@ -43,7 +43,7 @@ bottom:
         name: Aktuality
       - link: /lide/
         name: Lidé
-      - link: /kalendar/
+      - link: https://calendar.google.com/calendar/u/0?cid=NzJpYmg0NjBxODl2ZGRnZWI4cDk3czE3cTBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ
         name: Kalendář
       - link: /piratske-listy/
         name: Pirátské listy
