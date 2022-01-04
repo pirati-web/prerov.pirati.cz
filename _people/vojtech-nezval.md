@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsedove-ms
 - kontaktni_osoba
 position: Předseda místního sdružení
-img: people/vojtech-nezval.jpg             # 165 x 220
+img: people/nezval_vojtech.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení               # kratký popis, max 160 znaků
 mail: vojtech.nezval@pirati.cz
