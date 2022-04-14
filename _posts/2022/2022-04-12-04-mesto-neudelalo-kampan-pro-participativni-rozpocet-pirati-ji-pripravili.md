@@ -5,7 +5,7 @@ title: "Město selhalo s propagací vlastního participativního rozpočtu. Pir�
 date: 2022-04-12
 tags: přerov
 author: Josef Indra
-image: articles/2022/2022-03-27-pirati-s-dobrovolniky-uklidi-predmosti-v-prerove.jpg  #751x422 pixelu
+image: articles/2022/2022-04-12-04-mesto-neudelalo-kampan-pro-participativni-rozpocet-pirati-ji-pripravili.jpg  #751x422 pixelu
 ---
 
 Pirátská strana v Přerově zahajuje informační kampaň k participativnímu rozpočtu, který letos město spustilo. Děje se tak poté, co vedení města vyvinulo jen nepatrnou iniciativu k informování obyvatel Přerova. Piráti tímto krokem chtějí podpořit občany k aktivní účasti na rozhodování o vzhledu veřejného prostoru v Přerově.
