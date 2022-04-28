@@ -22,6 +22,4 @@ Bc. Jakub Jüngling (* 1983) je členem MS Přerov a také přerovským rodákem
 
 Po 3 letech práce v Londýně pro Tripadvisor nastal čas se vrátit domů, doslova. Přerovu a jeho lidem chtěl již hodně dlouho něco vrátit - vybudovat prostor, kam budou moci zajít nejen mladí lidé na dobré pití, jídlo, muziku a kulturu. Podařilo se mu tak vytvořit prostor kavárny [Nebe počká](www.nebepocka.cz). Současná politická situace ho avšak donutila k činům mimo podnikání a rozhodl se vstoupit do strany, která je mu názorově, pocitově a hlavně lidsky nejblíže. Mezi témata, která ho zajímají patří: Udržitelnost, ekologie, podpora malých/středních podniků, kultura (ač hudební, či ta výtvarná), a hlavně také dodržování morálních hodnot hodných slušného člověka.
 
-V roce 2018 kandidoval v Přerově na kandidátce [Společně pro Přerov a Pirátů](https://www.facebook.com/spolecneproprerov/090).
-
 ---
