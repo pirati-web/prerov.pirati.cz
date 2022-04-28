@@ -6,10 +6,10 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 - predsedove-ms
 - kontaktni_osoba
-position: Předseda místního sdružení, logistik a servisní specialista
+position: Předseda místního sdružení
 img: people/nezval_vojtech.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Předseda místního sdružení               # kratký popis, max 160 znaků
+description: Předseda místního sdružení, logistik a servisní specialista               # kratký popis, max 160 znaků
 mail: vojtech.nezval@pirati.cz
 mob: 601 083 738         
 profiles:
