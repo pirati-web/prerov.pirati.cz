@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 - predsedove-ms
 - kontaktni_osoba
-position: Předseda místního sdružení
+position: Předseda místního sdružení, logistik a servisní specialista
 img: people/nezval_vojtech.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Předseda místního sdružení               # kratký popis, max 160 znaků
