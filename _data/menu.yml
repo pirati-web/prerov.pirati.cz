@@ -16,6 +16,9 @@ main:
   - link: /aktuality/
     name: Aktuality
     match: aktuality
+ - link: /volby-2020/
+    name: Krajské volby
+    match: volby-2020
   - link: /lide/
     name: Lidé
     match: lide
