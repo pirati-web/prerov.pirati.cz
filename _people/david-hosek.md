@@ -8,7 +8,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position:
 img: people/hosek_david.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: zastupitel Olomouckého kraje                # kratký popis, max 160 znaků
+description: zastupitel Olomouckého kraje, plánovač výroby                # kratký popis, max 160 znaků
 mail: david.hosek@pirati.cz
 mob: 731 811 105        
 profiles:
