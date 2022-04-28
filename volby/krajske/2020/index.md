@@ -4,7 +4,7 @@ title: Odvaha změnit Přerov
 heroBgImg: articles/2022/kampan22/cover-prerov.jpg
 campaignGroupUid: volby-2020
 campaignCategoryUid: kraj2020
-candidateListUid: komunal2022
+candidateListUid: kraj2020
 hideCandidateSocialProfiles: true
 # customizeHeader: true
 ---
