@@ -125,14 +125,14 @@ tail:
       position: 17
       name: Petr Stoklásek
       age: 26
-      profession: zastupitel Zlína, plavčík, terapeut
+      profession: specialista zákaznické podpory
       city: Přerov I - Město
       partyUid: pirati
     - uid: martin.pavlistik
       position: 18
       name: Martin Pavlištík
       age: 22
-      profession: student, malíř a kytarista
+      profession: student malby na Ostravské univerzitě, umělec, muzikant
       city: Přerov X - Popovice
       partyUid: pirati
     - uid: zuzana.viznarova
