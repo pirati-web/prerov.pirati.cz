@@ -1,5 +1,5 @@
 ---
-layout: communal-elections
+layout: elections-2020
 title: Odvaha změnit Přerov
 heroBgImg: articles/2022/kampan22/cover-prerov.jpg
 campaignGroupUid: volby-2020
