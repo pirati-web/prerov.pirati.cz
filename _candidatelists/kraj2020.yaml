@@ -88,14 +88,14 @@ head:
       profession: zastupitel Otrokovic, account manager
       city: Přerov IV - Kozlovice
       partyUid: pirati
-   - uid: petr.chmelar
+   -  uid: petr.chmelar
       position: 12
       name: Petr Chmelař
       age: 37
       profession: chemik
       city: Přerov II - předmostí
       partyUid: pirati
-   - uid: michal.skopal
+   -  uid: michal.skopal
       position: 14
       name: Michal Skopal
       age: 24
@@ -215,7 +215,7 @@ tail:
       profession: dělník, numismatik
       city: Přerov I - Město
       partyUid: bezpp
-   - uid: rudolf.vybiral
+   -  uid: rudolf.vybiral
       position: 31
       name: Mgr. Rudolf Vybíral
       age: 43
