@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: 
 img: people/            # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje             # kratký popis, max 160 znaků
+description: terénní sociální pracovník, člen krajské komise pro bezpečnost a prevenci kriminality          # kratký popis, max 160 znaků
 mail: petr.konecny@pirati.cz
 mob: 732516520
 profiles:
