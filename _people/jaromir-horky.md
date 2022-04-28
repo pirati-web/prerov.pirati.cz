@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsednictvo
 - prerov-zastupitele
 - kraj-zastupitele
-position: Místopředseda krajského sdružení, marketingový manažer a fotograf
+position: Místopředseda krajského sdružení
 img: people/horky_jaromir.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: 1. místopředseda krajského sdružení Olomouckého kraje, zastupitel Olomouckého kraje                # kratký popis, max 160 znaků
