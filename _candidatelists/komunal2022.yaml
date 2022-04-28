@@ -181,8 +181,8 @@ tail:
       position: 25
       name: Marie Košnárová
       age: 23
-      profession: studentka, porodní asistentka
-      city: Přerov
+      profession: studentka porodní asistence
+      city: Přerov V - Dluhonice
       partyUid: bezpp
     - uid: adam.hobza
       position: 26
@@ -193,23 +193,23 @@ tail:
       partyUid: pirati
     - uid: sarka.kucerova
       position: 27
-      name: Petr Stoklasa
+      name: Mgr. Šárka Kučerová
       age: 32
       profession: chemička v oblasti vývoje a výzkumu, trenérka psího agillity
       city: Přerov II - Předmostí
       partyUid: bezpp
-    - uid: adam.odstrcil
+    - uid: adam.zatloukal
       position: 28
-      name: Adam Odstrčil
+      name: Adam Zatloukal
       age: 37
       profession: výrobní místr
       city: Přerov I - Město
       partyUid: bezpp
-    - uid: rudolf.vybiral
+    - uid: eva.bartonova
       position: 29
-      name: Mgr. Rudolf Vybíral
-      age: 43
-      profession: učitel na základní škole
+      name: Mgr. Eva Bartoňová
+      age: 57
+      profession: učitelka na základní škole
       city: Přerov I - Město
       partyUid: bezpp
     - uid: jan.pavlicek
@@ -219,11 +219,11 @@ tail:
       profession: dělník, numismatik
       city: Přerov I - Město
       partyUid: bezpp
-    - uid: jmeno.prijmeni
+   - uid: rudolf.vybiral
       position: 31
-      name: Jméno
-      age: 32
-      profession: poovolání
+      name: Mgr. Rudolf Vybíral
+      age: 43
+      profession: učitel na základní škole
       city: Přerov I - Město
       partyUid: bezpp
     - uid: jana.mahdalova
@@ -240,11 +240,11 @@ tail:
       profession: kontrolor kvality a jakosti
       city: Přerov I - Město
       partyUid: bezpp
-    - uid: eva.bartonova
+    - uid: iva.chmelarova
       position: 34
-      name: Mgr. Eva Bartoňová
-      age: 57
-      profession: učitelka na základní škole
+      name: Iva Chmelařová
+      age: 61
+      profession: prodavačka
       city: Přerov I - Město
       partyUid: bezpp
     - uid: jaromir.horky
