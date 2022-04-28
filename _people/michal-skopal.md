@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: 
 img: people/            # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje             # kratký popis, max 160 znaků
+description: pořadatel dětských táborů, podnikatel            # kratký popis, max 160 znaků
 mail: 
 mob: 
 profiles:
