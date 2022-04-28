@@ -22,7 +22,7 @@ ordmis: 1
 heroImg: banner_prerov.jpg
 published: true
 ---
-Vojtěch Nezval (* 18.4.1997) člen MS Přerov a člen majetkoprávní komise statutárního města Přerova. Pracuje jako logistik a servisní technik v obchodní firmě.
+Vojtěch Nezval (* 18.4.1997) člen MS Přerov a člen majetkoprávní komise statutárního města Přerova. Pracuje jako logistik a servisní specialista v obchodní firmě.
 
 Studuje kombinované bakalářské studium na Filozofické fakultě Univerzity Palackého v Olomouci v oboru andragogika v profilaci na personální rozvoj. 
 
