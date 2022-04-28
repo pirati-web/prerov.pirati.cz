@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position:
 img: people/jana-mahdalova.jpg           # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: vedouci sociálního úseku, sociální pracovnice                # kratký popis, max 160 znaků
+description: vedoucí sociální pracovnice                # kratký popis, max 160 znaků
 mail:
 - 
 mob:         
