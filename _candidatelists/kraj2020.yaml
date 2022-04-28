@@ -67,7 +67,6 @@ head:
       profession:  majitel kavárny Nebe Počká, překladatel, člen krajského výboru pro rozvoj cestovního ruchu
       city: Přerov I - město
       partyUid: pirati
-
     - uid: martin.svadlenka
       position: 10
       name: Martin Švadlenka
@@ -89,7 +88,6 @@ head:
       profession: zastupitel Otrokovic, account manager
       city: Přerov IV - Kozlovice
       partyUid: pirati
-
    - uid: petr.chmelar
       position: 12
       name: Petr Chmelař
@@ -112,8 +110,6 @@ head:
       city: Přerov I - Město
       partyUid: bezpp
 tail:      
-   
-   
     - uid: frantisek.hruby
       position: 16
       name: Ing. František Hrubý
@@ -255,7 +251,6 @@ tail:
       city: Přerov I - Město
       partyUid: pirati
  
-
 ---
 
 ## Bezpečnost (garant Jiří Ducháček)
