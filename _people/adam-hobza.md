@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position:
 img: people/adam-hobza.jpg           # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: Člen KS Olomouckého kraje                # kratký popis, max 160 znaků
+description: prodejce automobilů, zpěvák               # kratký popis, max 160 znaků
 mail:
 - adam.hobza@pirati.cz
 mob:         
