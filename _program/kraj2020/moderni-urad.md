@@ -5,7 +5,7 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
 img: program2020/finance.png
 approved:
-garant:
+garant: jaroslav.krejci
 perex: >
   1. Zjednodušíme komunikaci s úřadem pro občany i obce<br>
   2. Zvýšíme kybernetickou bezpečnost<br>
