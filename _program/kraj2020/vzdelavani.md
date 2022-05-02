@@ -1,8 +1,8 @@
 ---
 title: Vzdělávání
 uid: 2020-krajske-4
-campaignCategoryUid: 2020-krajske
-campaignGroupUid: 2020-krajske
+campaignCategoryUid: kraj2020
+campaignGroupUid: kraj2020
 img: program2020/skolstvi.png
 approved:
 garant:
