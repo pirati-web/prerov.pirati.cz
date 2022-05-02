@@ -3,7 +3,7 @@ title: Kultura
 uid: 2020-krajske-9
 campaignCategoryUid: 2020-krajske
 campaignGroupUid: 2020-krajske
-img: program2020/kultura.jpg
+img: program2020/kultura.png
 approved:
 garant:
 perex: >
