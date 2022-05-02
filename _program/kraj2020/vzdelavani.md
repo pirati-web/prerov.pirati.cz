@@ -5,7 +5,7 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
 img: program2020/skolstvi.png
 approved:
-garant:
+garant: jaroslav.krejci
 perex: >
   1. Podpoříme širokou nabídku vzdělávání<br>
   2. Snížíme rozdíly mezi školami<br>
