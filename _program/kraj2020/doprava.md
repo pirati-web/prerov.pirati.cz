@@ -5,7 +5,7 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
 img: program2020/doprava.jpg
 approved:
-garant:
+garant: vojtech.nezval
 perex: >
   1. Zalepíme díry na silnicích i v rozpočtu<br>
   2. Propojíme auta, autobusy, vlaky, cyklisty i chodce<br>
