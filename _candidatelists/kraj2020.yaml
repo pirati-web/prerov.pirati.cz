@@ -101,6 +101,15 @@ head:
       city: Přerov IV - Kozlovice
       partyUid: pirati
       
+   -  uid: petr.chmelar
+      position: 13
+      name: Petr Chmelař
+      age: 37
+      profession: chemik, běžec
+      city: Přerov II - předmostí
+      partyUid: pirati
+
+      
 tail:      
     - uid: frantisek.hruby
       position: 16
