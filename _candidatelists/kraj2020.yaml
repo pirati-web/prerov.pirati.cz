@@ -124,8 +124,7 @@ head:
       profession: překladatelka, učitelka jazyků
       city: Přerov I - Město
       partyUid: bezpp
-      
-tail:      
+          
     - uid: frantisek.hruby
       position: 16
       name: Ing. František Hrubý
