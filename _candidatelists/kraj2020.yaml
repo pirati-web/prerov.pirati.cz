@@ -1,0 +1,33 @@
+---
+title: Kandidáti do zastupitelstva města Přerova
+uid: kraj2020
+# number: 13
+
+leader:
+    uid: lenka.jungling
+    position: 1
+    name: Ing. Lenka Jüngling
+    age: 33
+    profession: podnikatelka, lektorka jógy, organizátorka akcí
+    city: Přerov I - Město
+    partyUid: pirati
+    
+head:
+    - uid: jaroslav.krejci
+      position: 2
+      name: Mgr. Jaroslav Krejčí
+      age: 48
+      profession: učitel na základní škole, kuželkář
+      city: Přerov VI - Újezdec
+      partyUid: pirati
+      
+tail:      
+    - uid: frantisek.hruby
+      position: 16
+      name: Ing. František Hrubý
+      age: 63
+      profession: zastupitel Napajedel, elektrotechnik
+      city: Přerov I - Město
+      partyUid: pirati
+     
+---
