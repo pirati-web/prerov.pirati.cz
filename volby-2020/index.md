@@ -11,10 +11,6 @@ hideCandidateSocialProfiles: true
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
 
-{% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">odvaha změnit přerov</h1>
-{% endcapture %}
-
 {% capture subContent %}
   <h2 class="head-xs md:head-base mt-2 text-center">Přerov <strong>má na víc!</strong></h2>
 {% endcapture %}
