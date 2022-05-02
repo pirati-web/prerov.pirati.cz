@@ -97,18 +97,9 @@ head:
       position: 12
       name: Ing. Tomáš Karlík
       age: 33
-      profession: zastupitel Otrokovic, account manager
+      profession: likvidátor černých skládek, člen kapely Milenium X
       city: Přerov IV - Kozlovice
       partyUid: pirati
-      
-   -  uid: petr.chmelar
-      position: 13
-      name: Petr Chmelař
-      age: 37
-      profession: chemik
-      city: Přerov II - předmostí
-      partyUid: pirati
-     
       
 tail:      
     - uid: frantisek.hruby
@@ -116,14 +107,6 @@ tail:
       name: Ing. František Hrubý
       age: 63
       profession: zastupitel Napajedel, elektrotechnik
-      city: Přerov I - Město
-      partyUid: pirati
-       
-    - uid: jaromir.horky
-      position: 17
-      name: Jaromír Horký
-      age: 24
-      profession: marketingový manažer, krajský zastupitel, fotograf, házenkář
       city: Přerov I - Město
       partyUid: pirati
  
