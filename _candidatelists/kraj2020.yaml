@@ -1,7 +1,7 @@
 ---
-title: Kandidáti do zastupitelstva Zlínského kraje
+title: Kandidáti do zastupitelstva Pardubického kraje
 uid: kraj2020
-number: 19
+# number: 13
 
 leader:
     uid: lenka.jungling
@@ -11,6 +11,7 @@ leader:
     profession: podnikatelka, lektorka jógy, organizátorka akcí
     city: Přerov I - Město
     partyUid: pirati
+    
 head:
     - uid: jaroslav.krejci
       position: 2
@@ -19,6 +20,7 @@ head:
       profession: učitel na základní škole, kuželkář
       city: Přerov VI - Újezdec
       partyUid: pirati
+      
     - uid: vojtech.nezval
       position: 3
       name: Bc. Vojtěch Nezval
@@ -26,6 +28,7 @@ head:
       profession: logistik a servisní specialista, webmaster, člen majetkoprávní komise města Přerova
       city: Přerov I - Město
       partyUid: pirati
+      
     - uid: david.hosek
       position: 4
       name: David Hošek
@@ -33,6 +36,7 @@ head:
       profession: plánovač výroby, krajský zastupitel, člen kontrolního výboru města Přerova, házenkář
       city: Přerov I - Město
       partyUid: pirati
+      
     - uid: petr.dostalik
       position: 5
       name: doc. JUDr. Petr Dostalík, Ph.D.
@@ -40,6 +44,7 @@ head:
       profession: právník, univerzitní pedagog
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: jitka.majerova
       position: 6
       name: Jitka Majerová, Dis.
@@ -47,6 +52,7 @@ head:
       profession: dentální hygienistka, členka krajského výboru pro zdravotnictví
       city: Přerov I - město
       partyUid: pirati
+      
     - uid: petr.konecny
       position: 7
       name: Bc. Petr Konečný, Dis.
@@ -54,6 +60,7 @@ head:
       profession: terénní sociální pracovník, člen krajské komise pro bezpečnost a prevenci kriminality
       city: Přerov II - Předmostí
       partyUid: pirati
+      
     - uid: vlastimil.spajs
       position: 8
       name: Vlastimil Špajs
@@ -61,13 +68,16 @@ head:
       profession: optik, měřící technik
       city: Přerov I - město
       partyUid: pirati
-      position: 9
+      
+      
     - uid: jakub.jungling
+      position: 9
       name: Bc. Jakub Jüngling
       age: 38
       profession: majitel kavárny Nebe Počká, překladatel, člen krajského výboru pro rozvoj cestovního ruchu
       city: Přerov I - město
       partyUid: pirati
+      
     - uid: martin.svadlenka
       position: 10
       name: Martin Švadlenka
@@ -75,6 +85,7 @@ head:
       profession: elektrotechnik, krajský zastupitel
       city: Přerov I - město
       partyUid: pirati
+      
     - uid: anezka.hruskova
       position: 11
       name: Bc. Anežka Hrušková
@@ -82,6 +93,7 @@ head:
       profession: zpěvačka, učitelka v mateřské škole
       city: Přerov I - město
       partyUid: bezpp
+      
     - uid: tomas.karlik
       position: 13
       name: Ing. Tomáš Karlík
@@ -89,6 +101,7 @@ head:
       profession: zastupitel Otrokovic, account manager
       city: Přerov IV - Kozlovice
       partyUid: pirati
+      
    -  uid: petr.chmelar
       position: 12
       name: Petr Chmelař
@@ -96,6 +109,7 @@ head:
       profession: chemik
       city: Přerov II - předmostí
       partyUid: pirati
+      
    -  uid: michal.skopal
       position: 14
       name: Michal Skopal
@@ -103,6 +117,7 @@ head:
       profession: OSVČ, jednatel
       city: Přerov I - Město
       partyUid: pirati
+      
     - uid: barbora.punge.puchalska
       position: 15
       name: Mgr. Barbora Punge Puchalská
@@ -110,6 +125,7 @@ head:
       profession: překladatelka, učitelka jazyků
       city: Přerov I - Město
       partyUid: bezpp
+      
 tail:      
     - uid: frantisek.hruby
       position: 16
@@ -118,6 +134,7 @@ tail:
       profession: zastupitel Napajedel, elektrotechnik
       city: Přerov I - Město
       partyUid: pirati
+      
     - uid: petr.stoklasek
       position: 17
       name: Petr Stoklásek
@@ -125,6 +142,7 @@ tail:
       profession: specialista zákaznické podpory
       city: Přerov I - Město
       partyUid: pirati
+      
     - uid: martin.pavlistik
       position: 18
       name: Martin Pavlištík
@@ -132,6 +150,7 @@ tail:
       profession: student malby na Ostravské univerzitě, umělec, muzikant
       city: Přerov X - Popovice
       partyUid: pirati
+      
     - uid: zuzana.viznarova
       position: 19
       name: Mgr. Zuzana Viznarová
@@ -139,6 +158,7 @@ tail:
       profession: lektorka a majitelka jógového studia
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: jaroslav.cermak
       position: 20
       name: Jaroslav Čermák
@@ -146,6 +166,7 @@ tail:
       profession: technický refent, malíř
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: jan.klimek
       position: 21
       name: Jan Klimek
@@ -153,6 +174,7 @@ tail:
       profession: majitel LaserArény, podnikatel
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: pavlina.mirgova
       position: 22
       name: Pavlína Mirgová
@@ -160,6 +182,7 @@ tail:
       profession: pracovnice v sociálních službách
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: jmeno.prijmeni
       position: 23
       name: Jméno a Příjmení
@@ -167,13 +190,15 @@ tail:
       profession: strojvedoucí
       city: Přerov II - Předmostí
       partyUid: pirati
-    - uid: jana.semelová
+      
+    - uid: jana.semelova
       position: 24
       name: Mgr. Jana Semelová
       age: 36
       profession: učitelka na základní škole
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: marie.kosnarova
       position: 25
       name: Marie Košnárová
@@ -181,6 +206,7 @@ tail:
       profession: porodní asistentka, členka Národního dechového orchestru
       city: Přerov V - Dluhonice
       partyUid: bezpp
+      
     - uid: adam.hobza
       position: 26
       name: Adam Hobza
@@ -188,6 +214,7 @@ tail:
       profession: prodejce automobilů, zpěvák
       city: Přerov I - Město
       partyUid: pirati
+      
     - uid: sarka.kucerova
       position: 27
       name: Mgr. Šárka Kučerová
@@ -195,6 +222,7 @@ tail:
       profession: chemička v oblasti vývoje a výzkumu, trenérka psího agillity
       city: Přerov II - Předmostí
       partyUid: bezpp
+      
     - uid: adam.zatloukal
       position: 28
       name: Adam Zatloukal
@@ -202,6 +230,7 @@ tail:
       profession: výrobní místr
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: eva.bartonova
       position: 29
       name: Mgr. Eva Bartoňová
@@ -209,6 +238,7 @@ tail:
       profession: učitelka na základní škole
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: jan.pavlicek
       position: 30
       name: Jan Pavlíček
@@ -216,6 +246,7 @@ tail:
       profession: dělník, numismatik
       city: Přerov I - Město
       partyUid: bezpp
+      
    -  uid: rudolf.vybiral
       position: 31
       name: Mgr. Rudolf Vybíral
@@ -223,6 +254,7 @@ tail:
       profession: učitel na základní škole
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: jana.mahdalova
       position: 32
       name: Bc. Jana Mahdalová, Dis.
@@ -230,6 +262,7 @@ tail:
       profession: vedoucí sociální pracovnice
       city: Přerov I - město
       partyUid: bezpp
+      
     - uid: dominik.odstrcil
       position: 33
       name: Dominik Odstrčil
@@ -237,6 +270,7 @@ tail:
       profession: kontrolor kvality a jakosti
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: iva.chmelarova
       position: 34
       name: Iva Chmelařová
@@ -244,6 +278,7 @@ tail:
       profession: prodavačka
       city: Přerov I - Město
       partyUid: bezpp
+      
     - uid: jaromir.horky
       position: 35
       name: Jaromír Horký
