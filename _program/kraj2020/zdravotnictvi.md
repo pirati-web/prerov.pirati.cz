@@ -3,7 +3,7 @@ title: Zdravotnictví
 uid: 2020-krajske-1
 campaignCategoryUid: 2020-krajske
 campaignGroupUid: 2020-krajske
-img: program2020/zdravotnictvi.jpg
+img: program2020/zdravotnictvi.png
 approved:
 garant:
 perex: >
