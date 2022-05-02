@@ -1,8 +1,8 @@
 ---
 title: Transparentní kraj
 uid: 2020-krajske-7
-campaignCategoryUid: 2020-krajske
-campaignGroupUid: 2020-krajske
+campaignCategoryUid: kraj2020
+campaignGroupUid: kraj2020
 img: program2020/digitalitace.png
 approved:
 garant:
