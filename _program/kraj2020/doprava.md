@@ -3,7 +3,7 @@ title: Doprava
 uid: 2020-krajske-2
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/doprava.png
+img: program2020/doprava.jpg
 approved:
 garant:
 perex: >
