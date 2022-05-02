@@ -101,7 +101,7 @@ head:
       city: Přerov IV - Kozlovice
       partyUid: pirati
       
-   -  uid: petr.chmelar
+    - uid: petr.chmelar
       position: 13
       name: Petr Chmelař
       age: 37
