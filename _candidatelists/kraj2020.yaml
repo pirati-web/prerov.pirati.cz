@@ -20,13 +20,6 @@ head:
       profession: učitel na základní škole, kuželkář
       city: Přerov VI - Újezdec
       partyUid: pirati
-- uid: jaroslav.krejci
-      position: 2
-      name: Mgr. Jaroslav Krejčí
-      age: 48
-      profession: učitel na základní škole, kuželkář
-      city: Přerov VI - Újezdec
-      partyUid: pirati
       
     - uid: vojtech.nezval
       position: 3
