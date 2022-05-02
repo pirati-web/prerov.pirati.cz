@@ -3,7 +3,7 @@ title: Regionální a územní rozvoj
 uid: 2020-krajske-8
 campaignCategoryUid: 2020-krajske
 campaignGroupUid: 2020-krajske
-img: program2020/doprava.jpg
+img: program2020/doprava.png
 approved:
 garant:
 perex: >
