@@ -1,8 +1,8 @@
 ---
 title: Kultura
 uid: 2020-krajske-9
-campaignCategoryUid: 2020-krajske
-campaignGroupUid: 2020-krajske
+campaignCategoryUid: kraj2020
+campaignGroupUid: kraj2020
 img: program2020/kultura.png
 approved:
 garant:
