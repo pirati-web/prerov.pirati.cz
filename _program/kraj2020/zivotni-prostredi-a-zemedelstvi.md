@@ -5,7 +5,7 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
 img: program2020/zivotni_prostredi.png
 approved:
-garant:
+garant: lenka.jungling
 perex: >
   1. Vrátíme vodu lidem i krajině<br>
   2. Minimalizujeme vznik odpadů<br>
