@@ -1,8 +1,8 @@
 ---
 title: Cestovní ruch a sport
 uid: 2020-krajske-10
-campaignCategoryUid: 2020-krajske
-campaignGroupUid: 2020-krajske
+campaignCategoryUid: kraj2020
+campaignGroupUid: kraj2020
 img: program2020/sport.png
 approved:
 garant:
