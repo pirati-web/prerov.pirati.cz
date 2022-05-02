@@ -100,7 +100,6 @@ head:
       city: Přerov I - město
       partyUid: bezpp
 
-      
 tail:      
     - uid: frantisek.hruby
       position: 16
