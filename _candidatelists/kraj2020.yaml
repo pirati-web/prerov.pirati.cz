@@ -64,7 +64,7 @@ head:
     - uid: jakub.jungling
       name: Bc. Jakub Jüngling
       age: 38
-      profession:  majitel kavárny Nebe Počká, překladatel, člen krajského výboru pro rozvoj cestovního ruchu
+      profession: majitel kavárny Nebe Počká, překladatel, člen krajského výboru pro rozvoj cestovního ruchu
       city: Přerov I - město
       partyUid: pirati
     - uid: martin.svadlenka
