@@ -1,22 +1,26 @@
 ---
-layout: elections-2020
-title: Komunální volby 2022
+layout: communal-elections
+title: Odvaha změnit Přerov
+heroBgImg: articles/2022/kampan22/banner_prerov.jpg
 campaignGroupUid: volby-2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
 hideCandidateSocialProfiles: true
-heroBgImg: articles/2022/kampan22/banner_prerov.jpg
+# customizeHeader: true
 ---
-
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
+<!-- {% capture mainContent %}
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Krajské volby 2020</h1>
+{% endcapture %} -->
 
-{% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">odvaha změnit Přerov</h1>
-{% endcapture %}
+<!-- {% capture subContent %}
+  <h2 class="head-alt-base md:head-alt-md mt-2 text-center">Šance <strong>změnit budoucnost</strong></h2>
+{% endcapture %} -->
 
-{% capture subContent %}
-  <h2 class="head-xs md:head-base mt-2 text-center">Přerov <strong>má na víc</strong></h2>
-{% endcapture %}
+<!-- {% include elections-header.html img=page.img bgImg=page.heroBgImg mainContent=mainContent subContent=subContent candidateListNumber=candidates.number %} -->
 
-
-Mezi hlavní priority, se kterými půjdou Piráti do krajských voleb, patří problematika zdravotnictví, dopravy, školství, životního prostředí a zemědělství. Na řešení výzev v oblasti zdravotnictví se zaměří Petr Tomáš, který pracoval 30 let u středočeské záchranné služby. Vzhledem ke geografii a napojení na Prahu je nutné se zaměřit také na dopravu Středočeského kraje. Garantem této oblasti je Petr Procházka, vedoucí dispečer nákladní vlakové dopravy. Tématem zadržování vody v krajině se bude zabývat botanička Jana Skopalíková. Středoškolská učitelka a kandidátka do senátu v okrese Příbram Simona Luftová zastřeší oblast vzdělávání. Jednotícím prvkem pak bude řešení dopadů koronavirové krize v oblasti ekonomické, kulturní nebo sociální.
+<h2 class="head-alt-base md:head-alt-md mt-2">Krajské volby 2020</h2>
+<div class="mt-4 md:mt-8 space-y-4">
+  {% include buttons/icon.html icon="ico--chevron-right" href="/volby-2020/povolebni-strategie-2020.pdf" cta="Povolební strategie" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+  {% include buttons/icon.html icon="ico--chevron-right" href="/volby-2020/zlk-kodex-2020.pdf" cta="Kodex kandidáta" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
+</div>
