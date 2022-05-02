@@ -3,7 +3,7 @@ title: Vzdělávání
 uid: 2020-krajske-4
 campaignCategoryUid: 2020-krajske
 campaignGroupUid: 2020-krajske
-img: program2020/skolstvi.jpg
+img: program2020/skolstvi.png
 approved:
 garant:
 perex: >
