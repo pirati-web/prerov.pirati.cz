@@ -1,8 +1,8 @@
 ---
 title: Doprava
 uid: 2020-krajske-2
-campaignCategoryUid: 2020-krajske
-campaignGroupUid: 2020-krajske
+campaignCategoryUid: kraj2020
+campaignGroupUid: kraj2020
 img: program2020/doprava.png
 approved:
 garant:
