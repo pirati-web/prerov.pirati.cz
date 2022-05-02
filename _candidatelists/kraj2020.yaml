@@ -94,7 +94,7 @@ head:
       partyUid: bezpp
 
     - uid: tomas.karlik
-      position: 13
+      position: 12
       name: Ing. Tomáš Karlík
       age: 33
       profession: zastupitel Otrokovic, account manager
@@ -102,28 +102,13 @@ head:
       partyUid: pirati
       
    -  uid: petr.chmelar
-      position: 12
+      position: 13
       name: Petr Chmelař
       age: 37
       profession: chemik
       city: Přerov II - předmostí
       partyUid: pirati
-      
-   -  uid: michal.skopal
-      position: 14
-      name: Michal Skopal
-      age: 24
-      profession: OSVČ, jednatel
-      city: Přerov I - Město
-      partyUid: pirati
-      
-    - uid: barbora.punge.puchalska
-      position: 15
-      name: Mgr. Barbora Punge Puchalská
-      age: 49
-      profession: překladatelka, učitelka jazyků
-      city: Přerov I - Město
-      partyUid: bezpp
+     
       
 tail:      
     - uid: frantisek.hruby
@@ -135,7 +120,7 @@ tail:
       partyUid: pirati
        
     - uid: jaromir.horky
-      position: 35
+      position: 17
       name: Jaromír Horký
       age: 24
       profession: marketingový manažer, krajský zastupitel, fotograf, házenkář
