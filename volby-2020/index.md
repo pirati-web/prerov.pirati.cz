@@ -5,7 +5,7 @@ campaignGroupUid: volby-2020
 campaignCategoryUid: kraj2020
 candidateListUid: kraj2020
 hideCandidateSocialProfiles: true
-heroBgImg: articles/2022/banner_prerov.jpg
+heroBgImg: articles/2022/kampan22/banner_prerov.jpg
 ---
 
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
