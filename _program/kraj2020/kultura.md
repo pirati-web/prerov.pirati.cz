@@ -5,7 +5,7 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
 img: program2020/kultura.png
 approved:
-garant:
+garant: vojtech.nezval
 perex: >
   1. Navýšíme financování kultury<br>
   2. Odpolitizujeme řízení kulturních institucí<br>
