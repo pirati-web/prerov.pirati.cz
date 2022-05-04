@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - kontaktni_osoba
 - predsedove-ms
 position: Místopředsedkyně místního sdružení
-img: people/jungling_lenka2.jpg             # 165 x 220
+img: people/lenka-jungling2.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: 1. místopředsedkyně místního sdružení Přerov, správce pirátského centra, podnikatelka                # kratký popis, max 160 znaků
 mail:
