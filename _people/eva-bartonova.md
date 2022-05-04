@@ -1,6 +1,6 @@
 ---
 uid: eva.bartonova
-name:     Eva Bartoňová         # běžně používáné jméno
+name:     Mgr. Eva Bartoňová         # běžně používáné jméno
 fullname: Mgr. Eva Bartoňová  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
