@@ -5,7 +5,7 @@ fullname: Mgr. Jaroslav Krejčí   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position: 
-img: people/jaroslav-krejci.jpg             # 165 x 220
+img: people/jaroslav-krejci2.jpg             # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: učitel na základní škole, kuželkář              # kratký popis, max 160 znaků
 mail: jaroslav.krejci@pirati.cz
