@@ -1,6 +1,6 @@
 ---
 uid: jana.semelova
-name:     Jana Semelová         # běžně používáné jméno
+name:     Mgr. Jana Semelová         # běžně používáné jméno
 fullname: Mgr. Jana Semelová  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
