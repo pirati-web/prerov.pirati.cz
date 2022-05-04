@@ -5,7 +5,7 @@ fullname: Ing. Tomáš Karlík   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position: 
-img: people/tomas-karlik2.jpg   # 165 x 220
+img: people/karlik.jpg   # 165 x 220
 description: Člen KS Olomouckého kraje           # kratký popis, max 160 znaků
 mail: 
 - 
