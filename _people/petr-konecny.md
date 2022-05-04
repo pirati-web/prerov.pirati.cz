@@ -1,7 +1,7 @@
 ---
 uid: petr.konecny
-name:    Petr Konečný     # běžně používané jméno
-fullname: Petr Konečný, Dis.  # jméno s tituly etc.
+name:    Bc. Petr Konečný, Dis.     # běžně používané jméno
+fullname: Bc. Petr Konečný, Dis.  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position: 
