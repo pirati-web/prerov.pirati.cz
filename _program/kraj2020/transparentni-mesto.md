@@ -1,5 +1,5 @@
 ---
-title: Transpentní město
+title: Transparentní město
 uid: 2020-krajske-7
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
