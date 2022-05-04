@@ -3,7 +3,7 @@ title: Rodina a sociální služby
 uid: 2020-krajske-5
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/socialni_oblast.png
+img: program2020/socialni.jpg
 approved:
 garant: lenka.jungling
 perex: >
