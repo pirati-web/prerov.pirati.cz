@@ -1,6 +1,6 @@
 ---
 uid: sarka.kucerova
-name:     Šárka Kučerová         # běžně používáné jméno
+name:     Mgr. Šárka Kučerová         # běžně používáné jméno
 fullname: Mgr. Šárka Kučerová  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
