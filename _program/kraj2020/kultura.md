@@ -3,7 +3,7 @@ title: Kultura
 uid: 2020-krajske-9
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/kultura.png
+img: program2020/kultura.jpg
 approved:
 garant: vojtech.nezval
 perex: >
