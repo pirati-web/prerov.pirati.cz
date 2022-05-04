@@ -1,5 +1,5 @@
 ---
-title: Cestovní ruch a sport
+title: Sport a cestovní ruch
 uid: 2020-krajske-10
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
