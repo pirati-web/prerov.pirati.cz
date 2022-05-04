@@ -11,7 +11,7 @@ perex: >
   2. Minimalizujeme vznik odpadů<br>
   3. Posílíme lokálnost a udržitelnost<br>
   4. Podpoříme zodpovědné hospodaření v krajině<br>
-order: 3
+order: 4
 ---
 
 **1. Vrátíme vodu lidem i krajině**<br>
