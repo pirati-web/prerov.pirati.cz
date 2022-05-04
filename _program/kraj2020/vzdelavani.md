@@ -3,7 +3,7 @@ title: Vzdělávání
 uid: 2020-krajske-4
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/vzdelavani.jpg
+img: program2020/vzdelavani2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
