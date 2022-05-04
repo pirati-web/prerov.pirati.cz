@@ -10,7 +10,7 @@ perex: >
   1. Zpřístupníme další kulturní památky<br>
   2. Podpoříme udržitelný cestovní ruch<br>
   3. Podpoříme sport a volnočasové aktivity<br>  
-order: 10
+order: 9
 ---
 
 **1. Zpřístupníme další kulturní památky**<br>
