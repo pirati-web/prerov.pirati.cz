@@ -1,5 +1,5 @@
 ---
-title: Rodina a sociální služby
+title: Sociální a zdravotní služby
 uid: 2020-krajske-5
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
