@@ -5,12 +5,12 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
 img: program2020/majetek.jpg
 approved:
-garant:
+garant: lenka.jungling
 perex: >
   1. Zřídíme výbor pro územní rozvoj<br>
   2. Podporujeme města a obce krátkých vzdáleností<br>
   3. Podpoříme malé obce<br>
-order: 8
+order: 1
 ---
 
 **1. Zřídíme výbor pro územní rozvoj**<br>
