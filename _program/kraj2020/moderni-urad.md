@@ -3,7 +3,7 @@ title: Moderní úřad
 uid: 2020-krajske-6
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/digitalizace.jpg
+img: program2020/digitalizace2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
