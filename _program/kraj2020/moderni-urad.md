@@ -9,7 +9,7 @@ garant: jaroslav.krejci
 perex: >
   1. Zjednodušíme komunikaci s úřadem pro občany i obce<br>
   2. Zvýšíme kybernetickou bezpečnost<br>
-order: 8
+order: 10
 ---
 
 **1. Zjednodušíme komunikaci s úřadem pro občany i obce**<br>
