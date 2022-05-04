@@ -1,6 +1,6 @@
 ---
 uid: barbora.punge.puchalska
-name:     Barbora Punge Puchalská         # běžně používáné jméno
+name:     Mgr. Barbora Punge Puchalská         # běžně používáné jméno
 fullname: Mgr. Barbora Punge Puchalská  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
