@@ -3,7 +3,7 @@ title: Bydlení a majetek města
 uid: 2020-krajske-8
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/bydleni.jpg
+img: program2020/majetek.jpg
 approved:
 garant:
 perex: >
