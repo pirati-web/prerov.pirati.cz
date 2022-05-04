@@ -10,7 +10,7 @@ perex: >
   1. Zveřejníme účetnictví kraje a jeho firem<br>
   2. Posvítíme si na veřejné zakázky a dotace<br>
   3. Budeme řídit kraj zodpovědně<br>
-order: 7
+order: 10
 ---
 
 **1. Zveřejníme účetnictví kraje a jeho firem**<br>
