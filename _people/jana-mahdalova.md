@@ -1,6 +1,6 @@
 ---
 uid: jana.mahdalova
-name:     Jana Mahdalová         # běžně používáné jméno
+name:     Bc. Jana Mahdalová, Dis.         # běžně používáné jméno
 fullname: Bc. Jana Mahdalová, Dis.  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
