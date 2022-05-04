@@ -1,5 +1,5 @@
 ---
-title: Kultura
+title: Kulturně živé město
 uid: 2020-krajske-9
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
