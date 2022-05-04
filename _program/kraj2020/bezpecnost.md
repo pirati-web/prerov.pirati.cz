@@ -5,13 +5,13 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
 img: program2020/bezpecnost2.jpg
 approved:
-garant:
+garant: jaroslav.krejci
 perex: >
   1. Zajistíme dostupnou a kvalitní zdravotní péči<br>
   2. Připravíme kraj na mimořádné události<br>
   3. Zmodernizujeme záchrannou službu<br>
   4. Kvalitnější péče v porodnictví a vznik porodních domů<br>
-order: 1
+order: 3
 ---
 
 **1. Zajistíme dostupnou a kvalitní zdravotní péči**<br>
