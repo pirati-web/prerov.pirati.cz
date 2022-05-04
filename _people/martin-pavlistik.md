@@ -5,7 +5,7 @@ fullname: Martin Pavlištík  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/martin-pavlistik.jpg           # 165 x 220
+img: people/pavlistik.jpg           # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: student malby na Ostravské univerzitě, umělec, muzikant               # kratký popis, max 160 znaků
 mail:
