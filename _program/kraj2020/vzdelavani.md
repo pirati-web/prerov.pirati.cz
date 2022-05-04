@@ -11,7 +11,7 @@ perex: >
   2. Snížíme rozdíly mezi školami<br>
   3. Propojíme vzdělávání s praxí<br>
   4. Připravíme vás na budoucnost<br>
-order: 4
+order: 6
 ---
 
 **1. Podpoříme širokou nabídku vzdělávání**<br>
