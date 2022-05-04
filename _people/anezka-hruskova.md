@@ -1,6 +1,6 @@
 ---
 uid: anezka.hruskova
-name:     Anežka Hrušková        # běžně používáné jméno
+name:     Bc. Anežka Hrušková        # běžně používáné jméno
 fullname: Bc. Anežka Hrušková  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
