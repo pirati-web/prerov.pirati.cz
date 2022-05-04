@@ -1,6 +1,6 @@
 ---
 uid: jaroslav.krejci
-name:     Jaroslav Krejčí     # běžně používané jméno
+name:     Mgr. Jaroslav Krejčí     # běžně používané jméno
 fullname: Mgr. Jaroslav Krejčí   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
