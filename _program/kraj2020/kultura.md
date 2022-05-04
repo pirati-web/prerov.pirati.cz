@@ -10,7 +10,7 @@ perex: >
   1. Navýšíme financování kultury<br>
   2. Odpolitizujeme řízení kulturních institucí<br>
   3. Zavedeme transparentní a přehledný grantový systém<br>
-order: 9
+order: 7
 ---
 
 **1. Navýšíme financování kultury**<br>
