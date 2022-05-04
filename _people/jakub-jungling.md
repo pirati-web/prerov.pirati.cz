@@ -1,6 +1,6 @@
 ---
 uid: jakub.jungling
-name:     Jakub Jüngling     # běžně používané jméno
+name:     Bc. Jakub Jüngling     # běžně používané jméno
 fullname: Bc. Jakub Jüngling   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
