@@ -1,9 +1,9 @@
 ---
-title: Regionální a územní rozvoj
+title: Bydlení a majetek města
 uid: 2020-krajske-8
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/doprava.png
+img: program2020/bydleni.jpg
 approved:
 garant:
 perex: >
