@@ -3,9 +3,9 @@ title: Cestovní ruch a sport
 uid: 2020-krajske-10
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/sport.jpg
+img: program2020/sport2.jpg
 approved:
-garant:
+garant: david.hosek
 perex: >
   1. Zpřístupníme další kulturní památky<br>
   2. Podpoříme udržitelný cestovní ruch<br>
