@@ -1,9 +1,9 @@
 ---
-title: Zdravotnictví
+title: Bezpečnost
 uid: 2020-krajske-1
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/zdravotnictvi.png
+img: program2020/bezpecnost2.jpg
 approved:
 garant:
 perex: >
