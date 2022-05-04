@@ -1,6 +1,6 @@
 ---
 uid: petr.dostalik
-name:    Petr Dostalík        # běžně používáné jméno
+name:    doc. JUDr. Petr Dostalík, Ph.D.        # běžně používáné jméno
 fullname: doc. JUDr. Petr Dostalík, Ph.D.  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
