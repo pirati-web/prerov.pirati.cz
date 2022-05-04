@@ -1,6 +1,6 @@
 ---
 uid: zuzana.viznarova
-name:     Zuzana Viznarová        # běžně používáné jméno
+name:     Mgr. Zuzana Viznarová        # běžně používáné jméno
 fullname: Mgr. Zuzana Viznarová  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
