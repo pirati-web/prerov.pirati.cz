@@ -1,7 +1,7 @@
 ---
 uid: vojtech.nezval
-name:     Vojtěch Nezval          # běžně používáné jméno
-fullname: Vojtěch Nezval   # jméno s tituly etc.
+name:     Bc. Vojtěch Nezval          # běžně používáné jméno
+fullname: Bc. Vojtěch Nezval   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 - predsedove-ms
