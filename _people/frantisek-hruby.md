@@ -1,6 +1,6 @@
 ---
 uid: frantisek.hruby
-name:    František Hrubý     # běžně používané jméno
+name:    Ing. František Hrubý     # běžně používané jméno
 fullname: Ing. František Hrubý  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
