@@ -5,8 +5,8 @@ fullname: Jitka Majerová, Dis.   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsedove-ms
 position: 2. místopředseda místního sdružení, dentální hygienistka
-img: people/jitka-majerova2.jpg             # 1320 x 1760
-img-full: people/jitka-majerova2.jpg                    # větší obrázek zobrazený na podrobném profilu
+img: people/majerova.jpg             # 1320 x 1760
+img-full: people/majerova.jpg                    # větší obrázek zobrazený na podrobném profilu
 description: 2. místopředsedkyně místního sdružení Přerov               # kratký popis, max 160 znaků
 mail: jitka.majerova@pirati.cz
 mob: 
