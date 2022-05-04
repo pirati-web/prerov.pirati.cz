@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
 img: people/adam-zatloukal.jpg           # 165 x 220
-img-full:                     # větší obrázek zobrazený na podrobném profilu
+img-full:  people/adam-zatloukal.jpg                   # větší obrázek zobrazený na podrobném profilu
 description: výrobní mistr                # kratký popis, max 160 znaků
 mail:
 - 
