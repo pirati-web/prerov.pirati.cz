@@ -1,5 +1,5 @@
 ---
-uid: barbora.punge.puchalska
+uid: rudolf.vybiral
 name:    Rudolf Vybíral         # běžně používáné jméno
 fullname: Mgr. Rudolf Vybíral  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
