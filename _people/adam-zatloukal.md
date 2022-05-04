@@ -5,7 +5,7 @@ fullname: Adam Zatloukal  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/adam-zatloukal.jpg           # 165 x 220
+img: people/zatloukal.jpg           # 165 x 220
 img-full:  people/adam-zatloukal.jpg                   # větší obrázek zobrazený na podrobném profilu
 description: výrobní mistr                # kratký popis, max 160 znaků
 mail:
