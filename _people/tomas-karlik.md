@@ -1,6 +1,6 @@
 ---
 uid: tomas.karlik
-name:     Tomáš Karlík   # běžně používáné jméno
+name:     Ing. Tomáš Karlík   # běžně používáné jméno
 fullname: Ing. Tomáš Karlík   # jméno s tituly etc.
 category:                   # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
