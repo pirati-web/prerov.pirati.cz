@@ -6,7 +6,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position: 
 img: people/jakub-jungling2.jpg             # 165 x 220
-img-full:                     # větší obrázek zobrazený na podrobném profilu
+img-full: people/jakub-jungling2.jpg                    # větší obrázek zobrazený na podrobném profilu
 description: majitel kavárny Nebe Počká, překladatel               # kratký popis, max 160 znaků
 mail: jakub.jungling@pirati.cz
 mob: 
