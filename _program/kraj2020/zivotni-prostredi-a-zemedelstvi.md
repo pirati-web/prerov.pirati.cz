@@ -3,7 +3,7 @@ title: Životní prostředí a zemědělství
 uid: 2020-krajske-3
 campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
-img: program2020/zivotni_prostredi.png
+img: program2020/zivotni-prostredi.jpg
 approved:
 garant: lenka.jungling
 perex: >
