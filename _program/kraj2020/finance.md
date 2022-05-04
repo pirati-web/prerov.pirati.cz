@@ -5,7 +5,7 @@ campaignCategoryUid: kraj2020
 campaignGroupUid: kraj2020
 img: program2020/finance.jpg
 approved:
-garant:
+garant: petr.dostalik
 perex: >
   1. Zveřejníme účetnictví kraje a jeho firem<br>
   2. Posvítíme si na veřejné zakázky a dotace<br>
