@@ -5,7 +5,7 @@ fullname: Petr Stoklásek   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/stoklasek_petr.jpg            # 165 x 220
+img: people/petr-stoklasek.jpg            # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: specialista zákaznické podpory                # kratký popis, max 160 znaků
 mail:
