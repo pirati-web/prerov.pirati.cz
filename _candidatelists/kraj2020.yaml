@@ -143,9 +143,9 @@ head:
       
     - uid: martin.pavlistik
       position: 18
-      name: Martin Pavlištík
+      name: jmeno.prijmeni
       age: 22
-      profession: student malby na Ostravské univerzitě, umělec, muzikant
+      profession: muzikant
       city: Přerov X - Popovice
       partyUid: pirati
       
@@ -181,12 +181,12 @@ head:
       city: Přerov I - Město
       partyUid: bezpp
       
-    - uid: jmeno.prijmeni
+    - uid: martin.pavlistik
       position: 23
-      name: Jméno a Příjmení
-      age: 28
-      profession: strojvedoucí
-      city: Přerov II - Předmostí
+      name: Martin Pavlištík
+      age: 22
+      profession: student malby na Ostravské univerzitě, umělec, muzikant
+      city: Přerov X - Popovice
       partyUid: pirati
       
     - uid: jana.semelova
