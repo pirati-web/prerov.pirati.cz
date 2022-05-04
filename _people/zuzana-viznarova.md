@@ -5,7 +5,7 @@ fullname: Mgr. Zuzana Viznarová  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/zuzana-viznarova.jpg           # 165 x 220
+img: people/viznarova.jpg           # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: lektorka a majitelka jógového studia                # kratký popis, max 160 znaků
 mail:
