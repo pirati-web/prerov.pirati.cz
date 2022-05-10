@@ -141,13 +141,13 @@ head:
       city: Přerov I - Město
       partyUid: pirati
       
-    - uid: martin.pavlistik
+    - uid: tereza.orsulikova
       position: 18
-      name: jmeno.prijmeni
+      name: Tereza Oršulíková
       age: 22
-      profession: muzikant
-      city: Přerov X - Popovice
-      partyUid: pirati
+      profession: akrobatka, cirkusačka
+      city: Přerov I - Město
+      partyUid: bezpp
       
     - uid: zuzana.viznarova
       position: 19
