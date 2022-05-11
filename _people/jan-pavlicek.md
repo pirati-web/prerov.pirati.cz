@@ -5,7 +5,7 @@ fullname: Jan Pavlíček  # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - 
 position:
-img: people/neznamy1.jpg            # 165 x 220
+img: people/bob.jpg            # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: dělník, numismatik                # kratký popis, max 160 znaků
 mail:
