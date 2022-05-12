@@ -1,6 +1,6 @@
 ---
 uid: jitka.majerova
-name:     Jitka Majerová    # běžně používané jméno
+name:     Jitka Majerová, Dis.    # běžně používané jméno
 fullname: Jitka Majerová, Dis.   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - predsedove-ms
