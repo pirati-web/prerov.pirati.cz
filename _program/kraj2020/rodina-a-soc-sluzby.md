@@ -14,18 +14,29 @@ perex: >
 order: 5
 ---
 
-**1. Rozšíříme sociální služby pro seniory**<br>
-Zaměříme se na podporu poskytování péče v přirozeném domácím prostředí a alternativní způsoby bydlení pro seniory – komunitní bydlení, sdílené bydlení nebo dostupnost menších bytů. Podpoříme domácí hospicovou péči. Upřednostníme podporu pobytových i terénních komunitních služeb před velkokapacitními ústavy. Zasadíme se o to, aby domy pro seniory byly dostupné pro místní obyvatele.
+**Důstojné a pohodlné stáří** <br>
+Budeme podporovat terénní pečovatelské služby tak, aby všichni lidé měli možnost žít v domácím prostředí, ať už se jedná o seniory, lidi s handicapem nebo ohrožené děti. Vytvoříme co nejlepší podmínky pro starší spoluobčany. Chceme vytvořit nová místa v domovech pro seniory, která zaručí důstojné stáří pro co největší počet Přerovanů. Zasadíme se také o vznik komunitního centra
+pro seniory.
+ 
+Prosadíme zajištění dostupného nájemního bydlení pro seniory a osoby se zdravotním znevýhodněním, kteří tak poté nebudou muset z finančních důvodů do ústavní péče. Občané by měli být informováni o službách dostupných v dané lokalitě. Přehledně uspořádané informace poskytne online průvodce služeb.
+ 
+**Město nemá být překážková dráha** <br>
+Při plánování i úpravě veřejných prostranství a budov budeme klást důraz na bezbariérovost
+a snadnou mobilitu pro pěší. Provedeme analýzu bezbariérovosti veřejných budov 
+(úřadů, zdravotnických zařízení, kulturních objektů, k popelnicím, do parků apod.) a zasadíme se
+o jejich zpřístupnění. Prověříme skutečnou dostupnost bezbariérových veřejných toalet. Ve veřejné dopravě považujeme za důležitou nejen bezbariérovost samotné přepravy, ale také související infrastruktury jako jsou nástupiště a příchodové cesty. Rozšíříme také služby jako senior taxi i pro lidi s handicapem, pro lepší dostupnost služeb. 
+ 
+**Budeme usilovat o vznik zubní pohotovosti a nonstop lékárny** <br>
+Zubní pohotovost nebo lékárna musí být pro občany dostupná v situacích, kdy je to potřeba. Uděláme maximum pro zřízení zubní pohotovosti a lékárny, která bude otevřena 24 hodin denně. Klademe důraz také na zdravotní prevenci a prevenci sociálních služeb. Potřebným je potřeba pomoci dříve, než bude pozdě. 
+ 
+**Neziskový sektor bude rovnocenným partnerem města** <br>
+S neziskovými organizacemi budeme pravidelně konzultovat kroky města a zároveň jim dáme prostor k propagaci jejich činnosti. Zohledníme jejich doporučení, vyjádření a upozornění.
+Dále jim ve fungování pomůžeme formou spolupráce nebo podporou dotačních titulů, zapojováním
+se do aktivit, propagací nebo zapojením zastupitelů nebo úředníků do jejich akcí a pomocí se shánění adekvátních prostor pro činnost.
+ 
+**Rovné zacházení a aktivní předcházení sociálnímu vyloučení** <br>
+Město by mělo prosazovat rovné zacházení a aktivně předcházet sociálnímu vyloučení. Pro zajištění rovnoprávnosti je potřeba dlouhodobé řešení, nikoliv nařízení a kvóty. Podporujeme dlouhodobé nástroje, které odstraňují sociální vyloučení a pomáhají na cestě k vzájemnému soužití.
 
-**2. Zajistíme dostupné bydlení**<br>
-Zmapujeme situaci okolo bytové nouze v kraji. Poskytneme podporu obcím, které na svém území řeší problémy s dostupností bydlení nebo komplexní problémy v tzv. sociálně vyloučených lokalitách.
-Podpoříme spolupráci mezi postiženými územími tak, aby se problémy pouze nepřesouvaly z obce do obce.
-
-**3. Zpřístupníme dluhové poradenství**<br>
-Pomůžeme rozšířit síť bezplatných dluhových poraden. Prohloubíme spolupráci s neziskovými organizacemi, které významným způsobem pomáhají lidem v dluhové pasti. Zasadíme se i o zvýšení finanční gramotnosti.
-
-**4. Podpoříme rodiny s dětmi**<br>
-Budeme prosazovat vznik rodinných center, dětských skupin a zařízení pro rodiny s dětmi. Pomůžeme rodinám sladit práci a péči o děti.
 
 [Krajská kandidátka 2020](/volby/2020/krajske/)
 
