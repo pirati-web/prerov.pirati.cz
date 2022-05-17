@@ -13,14 +13,19 @@ perex: >
 order: 9
 ---
 
-**1. Zpřístupníme další kulturní památky**<br>
-Chceme budovat naučné stezky, které budou v maximální možné míře vhodné i pro osoby se zdravotním hendikepem, protože samotné památky bez vhodného přístupu k nim nestačí. Zasadíme se o přehlednější značení, propagaci a pravidelnou údržbu cyklotras. Budeme podporovat i novou formu cyklistiky jako je např. Bike and Ride.
-
-**2. Podpoříme udržitelný cestovní ruch**<br>
-Naším cílem je dosažení udržitelnosti cestovního ruchu a celoroční turistické sezóny, a to zvýšením atraktivnosti méně turisticky rozvinutých oblastí. Zároveň chceme přispět k obnově zaniklých cest v krajině, abychom při tvorbě stezek eliminovali zatížení životního prostředí.
-
-**3. Podpoříme sport a volnočasové aktivity**<br>
-Upřednostňujeme rovný přístup ke všem druhům sportů a volnočasových aktivit, jednotlivcům či skupinám různých výkonností. Dotace mají být určeny především projektům, které přinášejí benefity širokému spektru občanů, nikoliv jen komerčním sportovním klubům nebo vrcholovým sportovcům.
+**Zdravý životní styl jako priorita**	<br>
+Podpora pohybových aktivit a zdravého životního stylu je pro nás důležitá, stejně tak práce lokálních klubů a spolků. Naší prioritou je sportování dětí a mládeže. Zajistíme rovné a transparentní dotační podmínky, například formou kapitační platby na sportující dítě. Přerozdělení financí nebude preferovat ani druh sportu, ani pohlaví členů klubu. Podpoříme sportovní akce pro širokou veřejnost, především zapojení do pohybových aktivit, tzv. hobby sportovců všech generací. 
+ 
+**Žádná malá domů. Pohlídáme dotace i ve sportu** <br>
+Podporujeme sport na všech úrovních od toho vrcholového až po výkonnostní. Zamezíme však účelovým dotacím, město nemůže podporovat prominentní sportovní odvětví, která odebírají dotace menším sportům, které potřebují podpořit.
+ 
+**Nová multifunkční sportovní hala pro širokou veřejnost** <br>
+Podporujeme výstavbu multifunkční sportovní haly s hledištěm, která bude sloužit veřejnosti a více sportovním subjektům. Podporujeme dostupné, multifunkční a bezbariérové hřiště a sportoviště pro širokou veřejnost. Chceme také, aby sportoviště při školách mohla využívat široká veřejnost a tím zároveň rozvíjet roli škol jako komunitních center. Jedním ze základních kritérií bude posouzení využitelnosti a užitných parametrů stavby na základě předložení stavebně-technického řešení minimálně ve stupni architektonické studie.
+ 
+**Podpoříme pohyb dětí** <br>
+Budeme systematicky rozvíjet pohybovou gramotnost a pozitivní vztah k pohybovým aktivitám
+na školkách a školách (například projekt trenéři do škol, se Sokolem do života atp.)
+m nebo vrcholovým sportovcům.
 
 [Krajská kandidátka 2020](/volby/2020/krajske/)
 
