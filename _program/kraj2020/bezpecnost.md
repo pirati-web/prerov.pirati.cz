@@ -14,17 +14,21 @@ perex: >
 order: 3
 ---
 
-**1. Zajistíme dostupnou a kvalitní zdravotní péči**<br>
-Posílíme zubní a lékařskou péči v přijatelné dojezdové vzdálenosti pro každého. Budeme podporovat programy pro získání většího počtu kvalitních lékařů, záchranářů a zdravotních sester ve vašem okrese. Ve spolupráci s Prahou budeme usilovat o vzájemnou koordinaci zdravotní péče.
+**Bezpečný Přerov jako priorita** <br>
+Jsme si vědomi toho, že bezpečnost v našem městě je jedním ze zásadních problémů. Zaměříme
+se především na prevenci kriminality. Zasadíme se o to, aby v Přerově bylo občanům k dispozici více asistentů prevence kriminality, než je tomu doposud a dále také posílíme tzv. “Domovníky”, kteří jsou schopni předcházet kriminalitě přímo na exponovaných místech Zasadíme se o výstavbu “chytrých” stojanů na kola, abychom předešli krádežím. Je potřeba podpořit neziskové organizace, které se dlouhodobě prevencí kriminality zabývají a pro jejich snažení jim vytvořit nejlepší podmínky.
+ 
+**Městská policie**<br>
+Pocit v bezpečí v Přerově zajišťuje městská policie, která má však plné ruce práce s kontrolou kamionů. Jsme si vědomi toho, že je potřeba tuto složku posílit. Chceme proto navýšit náborový příspěvek, zavést životní pojištění a pro nově nastupující městské policisty také příspěvek na bydlení, který pro ně bude jedním z hlavních motivačních faktorů. 
+ 
+**Město musí být připravené na jakoukoliv krizi** <br>
+Chceme Přerov, který bude připravený nejen na povodně, ale i na ostatní živelné či jiné katastrofy
+na povodně, tak živelné či jiné katastrofy. K tomu je potřeba, aby integrovaný záchranný systém
+měl funkční a moderní vybavení, které složkám pomůže tyto nastalé problémy zvládnout. 
+ 
+**Město musí své občany chránit, ne špehovat** <br>
+Městská policie patří do ulic a nikoliv do kanceláří. Dohlédneme na to, aby městský kamerový systém nebyl neprávem zneužíván a naopak, aby kamerové systémy na daném místě plnily svou roli.
 
-**2. Připravíme kraj na mimořádné události**<br>
-Zřídíme databázi domácích výrobců ochranných pomůcek a zajistíme distribuci zdravotnického materiálu pro lékaře, záchranáře, zdravotních sestry, pracovníky v sociálních službách, seniory a další ohrožené skupiny obyvatel. Zajistíme kvalitní krizové řízení kraje. Nedopustíme, aby se opakovaly chyby z období pandemie koronaviru.
-
-**3. Zmodernizujeme záchrannou službu**<br>
-Zajistíme transparentní nákup moderní techniky a pracovních pomůcek pro záchranáře. Zajistíme systematickou a ekonomicky udržitelnou obměnu vozového parku. Zavedeme elektronickou dokumentaci.
-
-**4. Kvalitnější péče v porodnictví a vznik porodních domů**<br>
-Budeme se zasazovat o vznik center porodní asistence v koordinaci se zdravotnickými zařízeními v kraji. Podpoříme práci komunitních porodních asistentek poskytujících předporodní a poporodní péči.
 
 [Krajská kandidátka 2020](/volby/2020/krajske/)
 
