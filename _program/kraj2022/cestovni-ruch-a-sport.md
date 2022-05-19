@@ -3,7 +3,7 @@ title: Sport a cestovní ruch
 uid: 2022-krajske-10
 campaignCategoryUid: kraj2022
 campaignGroupUid: kraj2022
-img: program2020/sport2.jpg
+img: program2022/sport2.jpg
 approved:
 garant: david.hosek
 perex: >
