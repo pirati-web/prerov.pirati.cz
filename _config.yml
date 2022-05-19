@@ -134,9 +134,9 @@ collections:
     output: true
     permalink: /program/:path/
     
-  volby2020:
+  volby2022:
     output: true
-    permalink: /volby-2020/:path/
+    permalink: /volby-2022/:path/
 
   # Sole purpose is to create candidate lists in separate files.
   candidatelists:
