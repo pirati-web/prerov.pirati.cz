@@ -1,9 +1,9 @@
 ---
 title: Vzdělávání
-uid: 2020-krajske-4
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/vzdelavani2.jpg
+uid: 2022-krajske-4
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/vzdelavani2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
@@ -41,5 +41,5 @@ Zajistíme financování tzv. well-beingu (prostředí dobré atmosféry) nejen 
 **Podpoříme praktickou výuku na školách** <br>
 Město má spoustu pozemků, které by se daly využít také k volnočasovým a vzdělávacím aktivitám. Těchto prostor bychom rádi využili pro výuku praktických dovedností. Poskytneme prostory pro volnočasové aktivity, ale také například pro "zahradničení" nebo "bylinkářství".
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
