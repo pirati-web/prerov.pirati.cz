@@ -1,9 +1,9 @@
 ---
 title: Sociální a zdravotní služby
-uid: 2020-krajske-5
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/social2.jpg
+uid: 2022-krajske-5
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/social2.jpg
 approved:
 garant: lenka.jungling
 perex: >
@@ -32,5 +32,5 @@ Dále jim ve fungování pomůžeme formou spolupráce nebo podporou dotačních
 **Rovné zacházení a aktivní předcházení sociálnímu vyloučení** <br>
 Město by mělo prosazovat rovné zacházení a aktivně předcházet sociálnímu vyloučení. Pro zajištění rovnoprávnosti je potřeba dlouhodobé řešení, nikoliv nařízení a kvóty. Podporujeme dlouhodobé nástroje, které odstraňují sociální vyloučení a pomáhají na cestě k vzájemnému soužití. 
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
