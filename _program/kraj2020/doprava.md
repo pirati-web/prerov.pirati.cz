@@ -1,9 +1,9 @@
 ---
 title: Doprava
-uid: 2020-krajske-2
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/doprava2.jpg
+uid: 2022-krajske-2
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/doprava2.jpg
 approved:
 garant: vojtech.nezval
 perex: >
@@ -34,5 +34,5 @@ Propojíme cyklostezky a tam, kde to bude možné, vytvoříme „cyklopruhy“,
 **Zefektivníme hromadnou dopravu a zavedeme zelené zastávky** <br>
 Autobusová doprava v Přerově potřebuje zefektivnit. Navrhujeme vytvoření nových tras, které člověka ráno včas dostanou na nádraží anebo do velkých firem v našem městě. Navrhujeme také zavedení zastávek na znamení pro lepší plynulost dopravy. Pro zpříjemnění veřejného prostoru a čekání                         na zastávkách budeme tato místa postupně osazovat květinami a popínavými rostlinami.
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
