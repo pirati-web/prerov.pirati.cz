@@ -1,9 +1,9 @@
 ---
 title: Životní prostředí a zemědělství
-uid: 2020-krajske-3
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/zivotni-prostredi.jpg
+uid: 2022-krajske-3
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/zivotni-prostredi.jpg
 approved:
 garant: lenka.jungling
 perex: >
@@ -45,5 +45,5 @@ V okolní krajině budeme obnovovat staré cesty, které dávaly smysl. Budeme v
 Ve vlastnictví Přerova je mnoho zemědělské a lesní půdy. Skrze tzv. „pachtovní smlouvy“ nastavíme podmínky pro šetrnější hospodaření na městských pozemcích, což povede k podpoře biodiverzity a lepší zádrži vody v krajině. V obecních lesích upřednostníme přírodě blízké způsoby hospodaření a posílíme mimoprodukční funkce lesa. Připravíme naši krajinu na změny klimatu.
 
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
