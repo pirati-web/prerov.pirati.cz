@@ -27,5 +27,5 @@ Chceme Přerov, který bude připravený nejen na povodně, ale i na ostatní ž
 Městská policie patří do ulic, a nikoliv do kanceláří. Dohlédneme na to, aby městský kamerový systém nebyl zneužíván neprávem, a naopak aby kamerové systémy na daném místě plnily svou roli.
 
 
-[Kandidátka 2022](/volby/2022/krajske/)
+[Kandidátka 2022](/volby/2022/
 
