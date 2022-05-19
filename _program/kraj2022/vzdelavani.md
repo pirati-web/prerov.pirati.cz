@@ -41,5 +41,5 @@ Zajistíme financování tzv. well-beingu (prostředí dobré atmosféry) nejen 
 **Podpoříme praktickou výuku na školách** <br>
 Město má spoustu pozemků, které by se daly využít také k volnočasovým a vzdělávacím aktivitám. Těchto prostor bychom rádi využili pro výuku praktických dovedností. Poskytneme prostory pro volnočasové aktivity, ale také například pro "zahradničení" nebo "bylinkářství".
 
-[Kandidátka 2022](/volby/2022/krajske/)
+[Kandidátka 2022](/volby-2022/
 
