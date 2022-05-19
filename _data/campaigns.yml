@@ -8,11 +8,11 @@
       categoryUid: rudoltice
     - title: Hlinsko   # individual campaigns within the group
       categoryUid: hlinsko
-- groupUid: volby-2020  # identifier of the group, to be used in program point
-  title: Volby 2020     # title of the campaign group
+- groupUid: volby-2022  # identifier of the group, to be used in program point
+  title: Volby 2022     # title of the campaign group
   campaigns:
     - title: Kraj   # individual campaigns within the group
-      categoryUid: kraj2020
+      categoryUid: kraj2022
   subLinks:
     - title: Financování kampaně
       icon: ico--calculator
