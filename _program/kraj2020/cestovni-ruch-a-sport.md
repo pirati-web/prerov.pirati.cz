@@ -1,8 +1,8 @@
 ---
 title: Sport a cestovní ruch
-uid: 2020-krajske-10
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
+uid: 2022-krajske-10
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
 img: program2020/sport2.jpg
 approved:
 garant: david.hosek
@@ -26,5 +26,5 @@ Podporujeme výstavbu multifunkční sportovní haly s hledištěm, která bude 
 Budeme systematicky rozvíjet pohybovou gramotnost a pozitivní vztah k pohybovým aktivitám na školkách a školách (například projekt trenéři do škol, se Sokolem do života atp.)
 
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
