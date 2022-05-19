@@ -1,9 +1,9 @@
 ---
 title: Bezpečnost
-uid: 2020-krajske-1
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/bezpecnost2.jpg
+uid: 2022-krajske-1
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/bezpecnost2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
@@ -27,5 +27,5 @@ Chceme Přerov, který bude připravený nejen na povodně, ale i na ostatní ž
 Městská policie patří do ulic, a nikoliv do kanceláří. Dohlédneme na to, aby městský kamerový systém nebyl zneužíván neprávem, a naopak aby kamerové systémy na daném místě plnily svou roli.
 
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
