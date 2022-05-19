@@ -2,15 +2,15 @@
 layout: communal-elections
 title: Odvaha změnit Přerov
 heroBgImg: articles/2022/kampan22/banner_prerov.jpg
-campaignGroupUid: volby-2020
-campaignCategoryUid: kraj2020
-candidateListUid: kraj2020
+campaignGroupUid: volby-2022
+campaignCategoryUid: kraj2022
+candidateListUid: kraj2022
 hideCandidateSocialProfiles: true
 # customizeHeader: true
 ---
 {% assign candidates = site.candidatelists | where: "uid", page.candidateListUid | first %}
 <!-- {% capture mainContent %}
-  <h1 class="head-alt-lg md:head-alt-xl text-center">Krajské volby 2020</h1>
+  <h1 class="head-alt-lg md:head-alt-xl text-center">Komunální volby 2022</h1>
 {% endcapture %} -->
 
 <!-- {% capture subContent %}
@@ -21,6 +21,5 @@ hideCandidateSocialProfiles: true
 
 <h2 class="head-alt-base md:head-alt-md mt-2">Krajské volby 2020</h2>
 <div class="mt-4 md:mt-8 space-y-4">
-  {% include buttons/icon.html icon="ico--chevron-right" href="/volby-2020/povolebni-strategie-2020.pdf" cta="Povolební strategie" class="btn--cyan-200 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
   {% include buttons/icon.html icon="ico--chevron-right" href="/volby-2020/zlk-kodex-2020.pdf" cta="Kodex kandidáta" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
 </div>
