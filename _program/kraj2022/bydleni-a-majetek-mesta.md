@@ -36,5 +36,5 @@ Zajistíme lepší zázemí pro obyvatele i návštěvníky města (WC, umývár
 **Obchod v každé místní části** <br>
 Město by mělo být schopné zařídit obyvatelům městských částí nakoupit si základní potraviny přímo v jejich obci. Postaráme se o to, aby to tak bylo buď s finanční podporou města, nebo z programů Ministerstva průmyslu a Obchodu.
 
-[Kandidátka 2022](/volby-2022/
+[Kandidátka 2022](/volby-2022/)
 
