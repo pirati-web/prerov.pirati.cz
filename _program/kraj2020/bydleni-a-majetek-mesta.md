@@ -1,9 +1,9 @@
 ---
 title: Bydlení a majetek města
-uid: 2020-krajske-8
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/majetek.jpg
+uid: 2022-krajske-8
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/majetek.jpg
 approved:
 garant: lenka.jungling
 perex: >
@@ -36,5 +36,5 @@ Zajistíme lepší zázemí pro obyvatele i návštěvníky města (WC, umývár
 **Obchod v každé místní části** <br>
 Město by mělo být schopné zařídit obyvatelům městských částí nakoupit si základní potraviny přímo v jejich obci. Postaráme se o to, aby to tak bylo buď s finanční podporou města, nebo z programů Ministerstva průmyslu a Obchodu.
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
