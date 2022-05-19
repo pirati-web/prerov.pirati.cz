@@ -1,9 +1,9 @@
 ---
 title: Kulturně živé město
-uid: 2020-krajske-9
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/kultura2.jpg
+uid: 2022-krajske-9
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/kultura2.jpg
 approved:
 garant: vojtech.nezval
 perex: >
@@ -35,5 +35,5 @@ Architektonické soutěže pro veřejné stavby jsou v rozvinutých společnoste
 Víme, že lokální divadlo, ochotnické spolky, knihovny a jiní vytváří kvalitní program pro své občany, nemají však dostatek financí, aby mohly na tyto akce přilákat širší obecenstvo. Vytvoříme proto sdílený kalendář všech akcí v Přerově od koncertů až po pivní slavnosti. Zamezíme tím většímu překrývání pořádaných akcí a zefektivníme vynakládání finančních prostředků na jejich uspořádání.
 
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
