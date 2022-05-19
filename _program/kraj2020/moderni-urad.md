@@ -25,8 +25,7 @@ Usnadníme život obyvatelům a snížíme náklady související především s
 Digitalizaci města mohou někteří občané chápat jako diskriminační, a to z důvodu chybějící techniky či nedostatečné informační gramotnosti. Přijmeme účinná opatření, aby k tomuto jevu nedocházelo.
  
 **Nový vizuální styl a svěží marketing města** <br>
-Přerov potřebuje jednotný styl prezentace. Otevřeme debatu o vzniku adekvátního loga města
-a jednotného grafického manuálu. Budeme požadovat nastartování propagace města a jeho aktivit vůči jeho občanům moderními způsoby. Zároveň skrze marketing podpoříme cestovní ruch a budeme do Přerova lákat občany i z jiných měst.
+Přerov potřebuje jednotný styl prezentace. Otevřeme debatu o vzniku adekvátního loga města a jednotného grafického manuálu. Budeme požadovat nastartování propagace města a jeho aktivit vůči jeho občanům moderními způsoby. Zároveň skrze marketing podpoříme cestovní ruch a budeme do Přerova lákat občany i z jiných měst.
  
 **Chceme přehledný a otevřený oficiální web města** <br>
 Zasadíme se o moderní, jednoduchý a přehledný webový portál města. Hledat informace nesmí být za trest. Vše musí fungovat intuitivně a informace musí být snadno dohledatelné.
@@ -38,6 +37,5 @@ Nabídneme občanům připojit se bezplatně k Wi-Fi síti ve veřejných budov�
 Zpřístupníme svobodný software zdarma, který zvládne stejné funkce jako placené programy.
 Školy a další organizace zřizované obcemi ušetří své prostředky. Přístupný zdrojový kód umožní odhalit nebezpečné nebo podvodné funkce, které mohou ohrozit bezpečnost osobních údajů občanů.
 
-
-[Krajská kandidátka 2020](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2020/krajske/)
 
