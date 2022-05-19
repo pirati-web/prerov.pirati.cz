@@ -27,7 +27,7 @@ Postaráme se o opravené chodníky bez rozbitých kachliček a kvalitní cesty 
 **Živé město** <br>
 Chceme, aby se vrátil život do města. Přispějeme k oživení prostor na sídlištích vybudováním míst k setkávání obyvatel, například na místě starých opuštěných pískovišť. Vytvoříme „chill-out zóny“ např. se šachovými a pingpongovými stoly, místy pro natažení slackline apod. Nezapomeneme také na žízeň občanů a navážeme na tradici „pítek“ na exponovaných místech. Podle nás by každý prostor měl přirozeně sdružovat sousedy v docházkové vzdálenosti – komunity se společnými zájmy, které jsou zdrojem sdílení a jsou vítaným partnerem radnice. 
 
-**Pasáž musí být reprezentativní bránou do centra města** <br> 
+**Pasáž musí být reprezentativní branou do centra města** <br> 
 Městská pasáž je prostor, kterým se nemůže chlubit každé město. Odkoupíme proto celou pasáž a zrevitalizujeme ji tak, aby lidé neměli strach tudy chodit. Pouze jako vlastník bude mít město dostatečně silné nástroje na to, jak ovlivnit nejev vzhled, ale i pravidla nájemníků pasáže, což také ovlivňuje okolí této dávné „perly“ města.
  
 **Město příjemnější pro lidi** <br>
