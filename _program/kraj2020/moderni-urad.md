@@ -1,9 +1,9 @@
 ---
 title: Moderní úřad
-uid: 2020-krajske-6
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/digitalizace2.jpg
+uid: 2022-krajske-6
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/digitalizace2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
@@ -37,5 +37,5 @@ Nabídneme občanům připojit se bezplatně k Wi-Fi síti ve veřejných budov�
 Zpřístupníme svobodný software zdarma, který zvládne stejné funkce jako placené programy.
 Školy a další organizace zřizované obcemi ušetří své prostředky. Přístupný zdrojový kód umožní odhalit nebezpečné nebo podvodné funkce, které mohou ohrozit bezpečnost osobních údajů občanů.
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
