@@ -1,9 +1,9 @@
 ---
 title: Transparentní město
-uid: 2020-krajske-7
-campaignCategoryUid: kraj2020
-campaignGroupUid: kraj2020
-img: program2020/finance.jpg
+uid: 2022-krajske-7
+campaignCategoryUid: kraj2022
+campaignGroupUid: kraj2022
+img: program2022/finance.jpg
 approved:
 garant: petr.dostalik
 perex: >
@@ -35,5 +35,5 @@ Zveřejňování smluv již upravuje zákon o registru smluv, my ovšem chceme z
 Průhledným dotačním procesem, transparentním a férovým rozdělováním financí přivedeme víc zájemců o granty a dotace. Zabráníme „malým domů“ a zajistíme rovný přístup ke všem žadatelům. Informace o dotacích budeme publikovat uživatelsky dostupně – aby se na ně mohl podívat každý,
 ne jen ten, kdo se probere tunou materiálu. Zveřejníme údaje o úspěšných, ale i neúspěšných žadatelích. Veškeré výsledky dotačních řízení jasně zdůvodníme. 
 
-[Kandidátka 2022](/volby/2020/krajske/)
+[Kandidátka 2022](/volby/2022/krajske/)
 
