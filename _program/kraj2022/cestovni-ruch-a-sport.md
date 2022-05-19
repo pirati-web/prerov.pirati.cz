@@ -26,5 +26,5 @@ Podporujeme výstavbu multifunkční sportovní haly s hledištěm, která bude 
 Budeme systematicky rozvíjet pohybovou gramotnost a pozitivní vztah k pohybovým aktivitám na školkách a školách (například projekt trenéři do škol, se Sokolem do života atp.)
 
 
-[Kandidátka 2022](/volby/2022/krajske/)
+[Kandidátka 2022](/volby-2022/
 
