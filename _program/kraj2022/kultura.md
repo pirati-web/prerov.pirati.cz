@@ -35,5 +35,5 @@ Architektonické soutěže pro veřejné stavby jsou v rozvinutých společnoste
 Víme, že lokální divadlo, ochotnické spolky, knihovny a jiní vytváří kvalitní program pro své občany, nemají však dostatek financí, aby mohly na tyto akce přilákat širší obecenstvo. Vytvoříme proto sdílený kalendář všech akcí v Přerově od koncertů až po pivní slavnosti. Zamezíme tím většímu překrývání pořádaných akcí a zefektivníme vynakládání finančních prostředků na jejich uspořádání.
 
 
-[Kandidátka 2022](/volby/2022/krajske/)
+[Kandidátka 2022](/volby-2022/
 
