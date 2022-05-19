@@ -37,5 +37,5 @@ Nabídneme občanům připojit se bezplatně k Wi-Fi síti ve veřejných budov�
 Zpřístupníme svobodný software zdarma, který zvládne stejné funkce jako placené programy.
 Školy a další organizace zřizované obcemi ušetří své prostředky. Přístupný zdrojový kód umožní odhalit nebezpečné nebo podvodné funkce, které mohou ohrozit bezpečnost osobních údajů občanů.
 
-[Kandidátka 2022](/volby-2022/
+[Kandidátka 2022](/volby-2022/)
 
