@@ -19,12 +19,18 @@ heroImg: banner-default.jpg
 published: true
 ---
 
-Jaroslav pochází z Mohelnice, více jak 20 let žije v Přerově, kde je také členem MS. Je ženatý a má dvě děti.
+Mgr. Jaroslav Krejčí (*1973) je učitelem IT na základní škole a správce sítě, člen místního sdružení v Přerově. Pochází z Mohelnice a v Přerově žije už přes 20 let. Je předsedou základní organizace Školských odborů.  
 
-Již v roce 1992 maturoval na Gymnáziu Jana Opletala v Litovli, poté chvíli studoval na Chemicko-technologické fakultě v Pardubicích, aby nakonec dostudoval v r. 2000 učitelství Čj - Ch na Pedagogické fakultě v Hradci Králové.
+Jaroslav Krejčí se narodil v Mohelnici. Studoval na gymnáziu Jana Opletala v Litovli a poté na Pedagogické fakultě v Hradci Králové obor učitelství českého jazyka a chemie.
+Na přelomu tisíciletí vyučoval na alternativní základní škole v Přerově a poté začal vyučovat na Přerovské základní škole. Jeho záliba v informačních technologií se postupně stala i jeho profesí, a to když na na Masarykově univerzitě v Brně vystudoval informatiku. V této době také zcela propadl svobodnému softwaru, který implementoval na své základní škole. 
+O Linuxu napsal již několik publikací a také o něm pořádá populárně-naučné přednášky.
+Má rád pěší túry, vrcholem této záliby byla jeho pouť do Santiaga de Compostela před 13 lety. Od 12 let hraje závodně kuželky a ve volném čase se věnuje zahradničení. Je také nadšeným čtenářem literatury, zejména francouzské generace prokletých básníků. 
+rád hraje RPG počítačové hry a je dobrovolným dárcem krve a krevní plazmy.
 
-V roce 2000 začal učit na malé alternativní škole, po několika odučených měsících nastoupil na civilní službu. Poté již pracovně zakotvil na ZŠ Přerov, U Tenisu 4. Záliba v informační technologie se mu stala profesí - na Ped. fakultě MU v Brně vystudoval informatiku. Již v této době docela propadnul svobodnému softwaru, který dokonce implementoval na své základní škole (migrace z Windows na Linux). O tomto svém počinu zvěstoval jak písemně (články v Linuxexpresu, České škole), tak osobně (přednášky na Installfestu, LinuxAltu, Žilinské univerzitě, ...).
+K Pirátům se přidal před 4 lety. Vedl ho k tomu důraz na transparentnost a přímou demokracii, protože chtěl vždy lidem politiku přiblížit a usiloval o větší zapojení občanů do politických procesů. 
 
-Nejen prací a Linuxem je člověk živ - Jaroslav má rád pěší túry (v r. 2009 šel s manželkou z Porta do Santiaga), od 12 let hraje závodně kuželky a oblíbil si ostrá jídla. Stále ještě čte, ale méně než zamlada, dokonce zanedbává i své oblíbené francouzské prokleté básníky. Podobně to má i se svým oblíbeným herním žánrem RPG a hudbou. Alespoň že se tedy stále věnuje dárcovství krve a plazmy - v roce 2020 má Jaroslav na svém kontě 70 bezpříspěvkových odběrů.
+Chtěl by aby přerovský magistrát přistupoval zodpovědněji a důsledněji k letitým problémům města a proto se chce po volbách zaměřit na větší důraz na ochranu životního prostředí ve městě a větší bezpečnost občanů zvláště v sociálně vyloučených lokalitách.
+Nejvíce se hodlá angažovat v oblastech, kterým rozumí nejvíce. Tedy ve zvýšení kvality školství, urychlení digitalizace a prosazování udržitelnějších a efeketivnějších investic do IT s důrazem na větší využívání svobodného softwaru. 
+
 
 ---
