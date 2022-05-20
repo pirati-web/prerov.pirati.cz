@@ -22,14 +22,13 @@ ordmis: 1
 heroImg: banner_prerov.jpg
 published: true
 ---
-Vojtěch Nezval (* 18.4.1997) člen MS Přerov a člen majetkoprávní komise statutárního města Přerova. Pracuje jako logistik a servisní specialista v obchodní firmě.
+Vojtěch Nezval (*18.4. 1997) je rodák z Přerova, předseda místního sdružení Pirátské strany v Přerově, člen krajské komise pro dopravu. V Přerově je členem majetkoprávní komise. Pracuje jako logistik a servisní specialista v obchodní firmě. 
 
-Studuje kombinované bakalářské studium na Filozofické fakultě Univerzity Palackého v Olomouci v oboru andragogika v profilaci na personální rozvoj. 
+Vojtěch Nezval se narodil v Přerově a na své město je náležitě hrdý. Chodil zde na základní školu, po jejímž dostudování absolvoval i střední školu v Zábřehu. Po maturitě nastoupil na Filozofickou fakultu Univerzity Palackého, kde nyní studuje magisterský obor. 
+Má zálibu v elektronice a nových technologiích. Má rád Rock a Punk a v poslední době si rád poslechne i rap nebo hiphop. Ve volném čase se věnuje horolezectví, boulderingu a turistice. 
 
-Od roku 2014, se zajímá o dění v Přerově a spolupracuje s MS Přerov, ve kterém se v roce 2020 stal 1. místopředsedou, následně je od podzimu roku 2021 jeho předsedou. Společně s Piráty, se podílel na pořádání kulturních akcí (VyOsení, dětský den na Laguně), ale také ukliďme Česko.
+K Pirátům se přidal, protože souzní s pirátskými hodnotami a názory. Jak sám říká, není strany, která by mu byla názorově bližší než Piráti. 
 
-Považuje se za liberála a jeho hlavní oblasti zájmu, je nakládání s odpady a ochrana životního prostředí.  
+V Přerově má nejraději historické centrum, ve kterém také bydlí. Líbí se mu hlavně pro jeho atmosféru a život, který ale podle něj poslední dobou skomírá. Chce proto změnit své okolí a rodné město k lepšímu.
 
-Ve volném čase, se věnuje hraní a rozšíření hry Ringo, četbě knih (hlavně Goerge Orwella),  a také opravám aut a výpočetní techniky.
-
-Jeho oblíbený citát je - „Lidé, kteří volí zkorumpované politiky, podvodníky, zloděje a zrádce. Nejsou oběti, nýbrž spolupachatelé.“ George Orwell
+Po volbách se chce zaměřit hlavně na kulturu a dopravu. Nechce však zůstat jen u toho a proto si rozšiřuje své znalosti i v majetkoprávní oblasti. 
