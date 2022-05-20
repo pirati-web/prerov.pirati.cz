@@ -18,13 +18,17 @@ profiles:
 heroImg: banner-default.jpg
 published: true
 ---
-Vlastimil Špajs (23.5.1990) narozen v Přerově a stále zde žije. Vyučen jako Optik. Je členem krajského expertního týmu pro oblast sociální a zdravotní. Přibližně ve dvaceti letech začal sledovat politiku. Nikdy neměl politické cíle, ale vývoj v naší zemi ho donutil přemýšlet, jestli přece jen, nemůže aspoň něco málo zlepšit k lepšímu. 
+Vlastimil Špajs (*23.5. 1990) je Pirát, rodák z Přerova a člen týmu pro zdravotnictví a sociální politiku Olomouckého kraje. V Přerově je garantem expertního týmu pro sociální politiku a zdravotnictví a spolugarantem expertního týmu pro bezpečnost. 
 
-Sledoval různé strany a hnutí a časem se nejvíc shodl s Pirátskou stranou a díky její aktivitě se rozhodl do strany přidat. Největší své zaměření chce dát do sociální politiky a zdravotní politiky. Jako Hemofilik strávil hodně času v nemocnicích a myslí si, že pohled pacienta do světa zdravotnictví může být důležitý. Jako handicapovaný člověk je ale pro něj nejvíc důležitá sociální politika. Kde chci zúročit své postřehy na tuto oblast.
+Vlastimil Špajs se narodil neslyšícím rodičům v Přerově, kde také vystudoval střední školu technickou. Pracuje jako měřící technik v soukromém sektoru. Má rád filmy a literaturu, dříve jezdíval s historickou skupinou, se kterou se účastnil nespočtu historických akcí po celé Moravě. Ve volném čase si také rád zahraje počítačové hry. Srdcovou záležitostí jsou 
+pro něj jeho dva psi. 
 
-Dělá dobrovolnické činnosti pro neziskovou organizaci (pořádání dětských táborů, prodej vánoční hvězdy, apod.) 10 let aktivně účinkoval v historickém spolku (kvůli zdravotnímu stavu musel tuto aktivitu omezit na minimum) – účinkování na různých hradech a zámcích v ČR, pořádání akcí pro veřejnost jako pálení čarodějnic, dětsky dny, Halloweenské strašení, atd.
+Dlouhodobě se zajímal o politiku, sledoval různé strany a hnutí a postupně se začal shodovat s programem a hodnotami Pirátské strany, které mu jsou názorově nejblíž. 
+Po té, co se seznámil s místním sdružením Pirátské strany v Přerově se stal jejím členem a rozhodl se za přerovské Piráty v nadcházejících volbách kandidovat.  
 
-Další koníčky - 2 úžasní psy, hra počítačových her, čtení knih, cestování,..
+Přerov pro Vlastimila znamená domov, nejraději chodí do parku Michalova, který považuje za skvělé místo k relaxaci a odpočinku. Vadí mu ale, jak město nezodpovědně zachází se svým majetkem. Jeho rozprodej a neefektivní využívání je pro Vlastimila slepou uličkou pro rozvoj Přerova. 
+
+Jako handicapovaný člověk ví, jak je důležitá sociální politika. V Přerově se chce zaměřit právě na ni a spolu s tím i na větší bezpečnost ve městě. Zároveň s tím chce z Přerova učinit co nejvíce bezbariérové město a efektivně řešit jeho bytovou politiku. 
 
 **„Pokud se mi povede zlepšit aspoň jen jednu jedinou věc, budu spokojen že jsem něco pro společnost udělal.“**
 
