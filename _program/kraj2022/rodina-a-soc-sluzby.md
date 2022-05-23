@@ -7,10 +7,7 @@ img: program2022/social2.jpg
 approved:
 garant: lenka.jungling
 perex: >
-  1. Rozšíříme sociální služby pro seniory<br>
-  2. Zajistíme dostupné bydlení<br>
-  3. Zpřístupníme dluhové poradenství<br>
-  4. Podpoříme rodiny s dětmi<br>
+ Dáme Přerovu potřebnou péči. A ta je potřeba jak když vás bolí zub a musíte jet přes půlku Moravy na zubní pohotovost, tak pokud chcete prožít klidné stáří v domově pro seniory. 
 order: 5
 ---
 
