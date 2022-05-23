@@ -7,10 +7,7 @@ img: program2022/bezpecnost2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
-  1. Zajistíme dostupnou a kvalitní zdravotní péči<br>
-  2. Připravíme kraj na mimořádné události<br>
-  3. Zmodernizujeme záchrannou službu<br>
-  4. Kvalitnější péče v porodnictví a vznik porodních domů<br>
+Pocit strachu si nechejte do kina k hororovým snímkům. V ulicích Přerova pro něj totiž nebude místo. Bezpečné město je jednou z našich nejvyšších priorit. Zlepšení bezpečnosti ve městě vrátí do ulic tolik potřebný život. A přesně to chceme.
 order: 3
 ---
 
