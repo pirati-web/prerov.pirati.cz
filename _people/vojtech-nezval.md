@@ -24,7 +24,7 @@ published: true
 ---
 Vojtěch Nezval (*18.4. 1997) je rodák z Přerova, předseda místního sdružení Pirátské strany v Přerově, člen krajské komise pro dopravu. V Přerově je členem majetkoprávní komise. Pracuje jako logistik a servisní specialista v obchodní firmě. 
 
-Vojtěch Nezval se narodil v Přerově a na své město je náležitě hrdý. Chodil zde na základní školu, po jejímž dostudování absolvoval i střední školu v Zábřehu. Po maturitě nastoupil na Filozofickou fakultu Univerzity Palackého, kde nyní studuje magisterský obor. 
+Vojtěch Nezval se narodil v Přerově a na své město je náležitě hrdý. Chodil zde na základní školu, po jejímž dostudování absolvoval střední školu v Zábřehu. Nyní dokončil bakalářský obor na Filozofické fakultě Univerzity Palackéh. 
 Má zálibu v elektronice a nových technologiích. Má rád Rock a Punk a v poslední době si rád poslechne i rap nebo hiphop. Ve volném čase se věnuje horolezectví, boulderingu a turistice. 
 
 K Pirátům se přidal, protože souzní s pirátskými hodnotami a názory. Jak sám říká, není strany, která by mu byla názorově bližší než Piráti. 
