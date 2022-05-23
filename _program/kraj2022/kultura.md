@@ -7,9 +7,7 @@ img: program2022/kultura2.jpg
 approved:
 garant: vojtech.nezval
 perex: >
-  1. Navýšíme financování kultury<br>
-  2. Odpolitizujeme řízení kulturních institucí<br>
-  3. Zavedeme transparentní a přehledný grantový systém<br>
+Vraťme do ulic Přerova život. Trávení volného času je v Přerově velká výzva. Proto se chceme zasadit o stavbu nové městské knihovny, které si naše město rozhodně zaslouží. Stejně tak bychom rádi pro rodiny s dětmi vytvořili dětský svět s kavárnou v Předmostí a zavedli například nový koncept vánočních trhů.
 order: 7
 ---
 
