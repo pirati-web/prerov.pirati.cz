@@ -7,8 +7,7 @@ img: program2022/digitalizace2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
-  1. Zjednodušíme komunikaci s úřadem pro občany i obce<br>
-  2. Zvýšíme kybernetickou bezpečnost<br>
+Zapomeňte na chození na úřady. Do 4 let zdigitalizujeme služby města tak, abyste vše mohli vyřídit z domova. S digitalizaci souvisí také nové oficiální sociální sítě města, díky kterým budou občané informováni a informace budete moci získávat rovnou v našich ulicích, a to díky nové veřejné Wi-Fi na klíčových místech v Přerově.
 order: 10
 ---
 
