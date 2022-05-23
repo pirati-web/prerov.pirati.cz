@@ -7,9 +7,7 @@ img: program2022/majetek.jpg
 approved:
 garant: lenka.jungling
 perex: >
-  1. Zřídíme výbor pro územní rozvoj<br>
-  2. Podporujeme města a obce krátkých vzdáleností<br>
-  3. Podpoříme malé obce<br>
+Přerované musí mít kde bydlet! Výstavba nových bytů a smysluplné využití Strojaře je pro nás jednou z hlavních priorit. Přeměníme Přerov tak, aby se zde dobře bydlelo jak mladým rodinám, tak starším spoluobčanům.
 order: 1
 ---
 
