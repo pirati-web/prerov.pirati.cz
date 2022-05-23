@@ -7,10 +7,7 @@ img: program2022/zivotni-prostredi.jpg
 approved:
 garant: lenka.jungling
 perex: >
-  1. Vrátíme vodu lidem i krajině<br>
-  2. Minimalizujeme vznik odpadů<br>
-  3. Posílíme lokálnost a udržitelnost<br>
-  4. Podpoříme zodpovědné hospodaření v krajině<br>
+Vidím město zelené, jehož stromy hvězd se dotýkají. Chceme otevřené město lidem, a proto je potřeba zlepšit jeho veřejný prostor. Plánujeme vytvořit nový biotop, zasadit více stromů a zlepšit odpadové hospodářství města.
 order: 4
 ---
 
