@@ -7,9 +7,7 @@ img: program2022/doprava2.jpg
 approved:
 garant: vojtech.nezval
 perex: >
-  1. Zalepíme díry na silnicích i v rozpočtu<br>
-  2. Propojíme auta, autobusy, vlaky, cyklisty i chodce<br>
-  3. Zkontrolujeme skutečný stav silnic a mostů<br>
+Představte si tu nádheru: Sjedete na Přerov z dokončeného obchvatu, projedete centrum průpichem a díky novému parkovacímu domu a větší kapacitě parkovišť zaparkujete bez jakýchkoliv problémům a bez zácpy. To není pohádka, ale naše vize.
 order: 2
 ---
 
