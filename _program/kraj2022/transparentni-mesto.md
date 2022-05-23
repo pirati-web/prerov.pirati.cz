@@ -7,9 +7,7 @@ img: program2022/finance.jpg
 approved:
 garant: petr.dostalik
 perex: >
-  1. Zveřejníme účetnictví kraje a jeho firem<br>
-  2. Posvítíme si na veřejné zakázky a dotace<br>
-  3. Budeme řídit kraj zodpovědně<br>
+Malé domů patří do sportu, ne do městských projektů. Vyšší transparence městských společností pomůže ušetřit finanční prostředky, které můžeme dále smysluplně využít. Chceme také navýšit částku participativního rozpočtu, jelikož sami obyvatelé Přerova často nejlíp ví, co by ve svém městě chtěli realizovat. 
 order: 10
 ---
 
