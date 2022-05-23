@@ -7,10 +7,7 @@ img: program2022/vzdelavani2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
-  1. Podpoříme širokou nabídku vzdělávání<br>
-  2. Snížíme rozdíly mezi školami<br>
-  3. Propojíme vzdělávání s praxí<br>
-  4. Připravíme vás na budoucnost<br>
+ Škola je základ života, a proto bychom na nich rozhodně neměli šetřit. Právě naopak, investice do vzdělávání je pro město velkou příležitostí. Navrhujeme proto zvýšit finanční podporu školám a zavést participativní rozpočet pro studenty, aby si sami mohli rozhodnout o vylepšeních, které chtějí prosadit.
 order: 6
 ---
 
