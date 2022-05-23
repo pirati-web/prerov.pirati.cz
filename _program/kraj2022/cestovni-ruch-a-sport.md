@@ -7,9 +7,7 @@ img: program2022/sport2.jpg
 approved:
 garant: david.hosek
 perex: >
-  1. Zpřístupníme další kulturní památky<br>
-  2. Podpoříme udržitelný cestovní ruch<br>
-  3. Podpoříme sport a volnočasové aktivity<br>  
+Rozhýbeme Přerov. Podpora volnočasových aktivit, klubů a spolků je pro nás důležitá. Nový prostor pro sporty plánujeme vytvořit formou multifunkční sportovní haly s hledištěm, která bude sloužit veřejnosti a více sportovním klubům. 
 order: 9
 ---
 
