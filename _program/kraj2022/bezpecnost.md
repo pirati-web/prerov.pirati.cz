@@ -7,7 +7,7 @@ img: program2022/bezpecnost2.jpg
 approved:
 garant: jaroslav.krejci
 perex: >
-Pocit strachu si nechejte do kina k hororovým snímkům. V ulicích Přerova pro něj totiž nebude místo. Bezpečné město je jednou z našich nejvyšších priorit. Zlepšení bezpečnosti ve městě vrátí do ulic tolik potřebný život. A přesně to chceme.
+ Pocit strachu si nechejte do kina k hororovým snímkům. V ulicích Přerova pro něj totiž nebude místo. Bezpečné město je jednou z našich nejvyšších priorit. Zlepšení bezpečnosti ve městě vrátí do ulic tolik potřebný život. A přesně to chceme.
 order: 3
 ---
 
