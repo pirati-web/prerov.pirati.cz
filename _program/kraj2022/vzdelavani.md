@@ -29,8 +29,8 @@ Víme, že správa budovy školy stojí opravdu hodně peněz. Navrhujeme proto 
 **Centrální přihláška do mateřských škol v Přerově** <br>
 Je zapotřebí prosadit jasný a přehledný systém. Zavedeme centrální elektronickou přihlášku pro mateřské školy v Přerově a ta rodičům zajistí bezpečný, jednodušší a transparentní zápis. 
  
-**Zajistíme dostupnost škol a dostatek míst** <br>
-Najdeme zdroje financování pro dostatek míst v třídách a dostavbu dalších – odborných a venkovních učeben. Chceme, aby naše školství mělo tu nejlepší možnou úroveň a nejnovější vybavení. Připravíme naše školy na další demografický vývoj: nedostatky míst ve školách budeme řešit s předstihem                       na základě dat a analýz. Budeme předcházet komplikacím ještě předtím, než nastanou.
+**Zajistíme dostupnost škol a dostatek míst v mateřských školách** <br>
+Najdeme zdroje financování pro dostatek míst v třídách a dostavbu dalších – odborných a venkovních učeben. Chceme, aby naše školství mělo tu nejlepší možnou úroveň a nejnovější vybavení. Připravíme naše školy a školky na další demografický vývoj: nedostatky míst ve školách budeme řešit s předstihem                       na základě dat a analýz. Budeme předcházet komplikacím ještě předtím, než nastanou.
  
 **Chceme zdravé klima ve školách** <br>
 Zajistíme financování tzv. well-beingu (prostředí dobré atmosféry) nejen pro žáky, ale i pro učitele a další zaměstnance školy. Prosazujeme kvalitní a kulturní stravování ve všech školních jídelnách v návaznosti na projekt Zdravá školní jídelna.
