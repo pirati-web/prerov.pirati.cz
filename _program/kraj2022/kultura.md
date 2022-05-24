@@ -7,7 +7,7 @@ img: program2022/kultura2.jpg
 approved:
 garant: vojtech.nezval
 perex: >
-Vraťme do ulic Přerova život. Trávení volného času je v Přerově velká výzva. Proto se chceme zasadit o stavbu nové městské knihovny, které si naše město rozhodně zaslouží. Stejně tak bychom rádi pro rodiny s dětmi vytvořili dětský svět s kavárnou v Předmostí a zavedli například nový koncept vánočních trhů.
+ Vraťme do ulic Přerova život. Trávení volného času je v Přerově velká výzva. Proto se chceme zasadit o stavbu nové městské knihovny, které si naše město rozhodně zaslouží. Stejně tak bychom rádi pro rodiny s dětmi vytvořili dětský svět s kavárnou v Předmostí a zavedli například nový koncept vánočních trhů.
 order: 7
 ---
 
