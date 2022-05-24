@@ -7,7 +7,7 @@ img: program2022/majetek.jpg
 approved:
 garant: lenka.jungling
 perex: >
-Přerované musí mít kde bydlet! Výstavba nových bytů a smysluplné využití Strojaře je pro nás jednou z hlavních priorit. Přeměníme Přerov tak, aby se zde dobře bydlelo jak mladým rodinám, tak starším spoluobčanům.
+ Přerované musí mít kde bydlet! Výstavba nových bytů a smysluplné využití Strojaře je pro nás jednou z hlavních priorit. Přeměníme Přerov tak, aby se zde dobře bydlelo jak mladým rodinám, tak starším spoluobčanům.
 order: 1
 ---
 
