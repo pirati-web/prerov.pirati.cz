@@ -7,7 +7,7 @@ img: program2022/doprava2.jpg
 approved:
 garant: vojtech.nezval
 perex: >
-Představte si tu nádheru: Sjedete na Přerov z dokončeného obchvatu, projedete centrum průpichem a díky novému parkovacímu domu a větší kapacitě parkovišť zaparkujete bez jakýchkoliv problémům a bez zácpy. To není pohádka, ale naše vize.
+ Představte si tu nádheru: Sjedete na Přerov z dokončeného obchvatu, projedete centrum průpichem a díky novému parkovacímu domu a větší kapacitě parkovišť zaparkujete bez jakýchkoliv problémům a bez zácpy. To není pohádka, ale naše vize.
 order: 2
 ---
 
