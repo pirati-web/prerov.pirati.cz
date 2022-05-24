@@ -7,7 +7,7 @@ img: program2022/finance.jpg
 approved:
 garant: petr.dostalik
 perex: >
-Malé domů patří do sportu, ne do městských projektů. Vyšší transparence městských společností pomůže ušetřit finanční prostředky, které můžeme dále smysluplně využít. Chceme také navýšit částku participativního rozpočtu, jelikož sami obyvatelé Přerova často nejlíp ví, co by ve svém městě chtěli realizovat. 
+ Malé domů patří do sportu, ne do městských projektů. Vyšší transparence městských společností pomůže ušetřit finanční prostředky, které můžeme dále smysluplně využít. Chceme také navýšit částku participativního rozpočtu, jelikož sami obyvatelé Přerova často nejlíp ví, co by ve svém městě chtěli realizovat. 
 order: 10
 ---
 
