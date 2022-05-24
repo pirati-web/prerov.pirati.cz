@@ -7,7 +7,7 @@ img: program2022/zivotni-prostredi.jpg
 approved:
 garant: lenka.jungling
 perex: >
-Vidím město zelené, jehož stromy hvězd se dotýkají. Chceme otevřené město lidem, a proto je potřeba zlepšit jeho veřejný prostor. Plánujeme vytvořit nový biotop, zasadit více stromů a zlepšit odpadové hospodářství města.
+ Vidím město zelené, jehož stromy hvězd se dotýkají. Chceme otevřené město lidem, a proto je potřeba zlepšit jeho veřejný prostor. Plánujeme vytvořit nový biotop, zasadit více stromů a zlepšit odpadové hospodářství města.
 order: 4
 ---
 
