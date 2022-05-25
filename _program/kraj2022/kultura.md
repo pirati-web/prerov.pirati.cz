@@ -12,7 +12,7 @@ order: 7
 ---
 
 **Dětský herní svět a kavárna v Předmostí** <br>
-Dáme život novým prostorám a lidem novou možnost, jak se svými dětmi využít volný čas. Vyhlásíme výběrové řízení na provozovatele dětského herního světa s kavárnou v Předmostí, aby lidé měli kam zajít na kávu i v Předmostí.
+Dáme život novým prostorám a lidem novou možnost, jak se svými dětmi využít volný čas. Vyhlásíme výběrové řízení na provozovatele dětského světa s kavárnou v Předmostí, aby lidé měli kam zajít na kávu i v Předmostí.
 
 **Podpoříme vznik letního kina v Přerově** <br>
 Zajistíme rozkvět kinematografie ve městě. Zakoupením licence na promítání filmů podpoříme vznik letního kina, aby občané mohli letní večery trávit v přírodě a nemuseli do letního kina dojíždět například do Olomouce.
