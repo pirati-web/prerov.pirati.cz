@@ -11,7 +11,7 @@ perex: >
 order: 10
 ---
 
-**Do 4 let nebudete muset na magistrát fyzicky!** <br>
+**Do čtyř let nebudete muset na magistrát fyzicky!** <br>
 Zdigitalizujeme služby města, abyste mohli opravdu vše vyřídit z domova. Vytvoříme nový, zdokonalený, levnější a efektivnější portál občana ve spolupráci se spolkem Otevřená města. Staneme se také členem spolku Otevřená města, jehož cílem je podpora otevřeného fungování místních samospráv – vstřícný přístup k občanům, vysoké možnosti zapojení občanů do veřejného dění, zprůhlednění veřejných zakázek od přípravy záměru až po odevzdání výsledku a také používání nových a otevřených technologií ve veřejné správě. 
 
 **Spustíme oficiální sociální sítě města** <br>
