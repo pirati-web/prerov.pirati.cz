@@ -21,7 +21,7 @@ Podporujeme sport na všech úrovních od toho vrcholového až po výkonnostní
 Podporujeme výstavbu multifunkční sportovní haly s hledištěm, která bude sloužit veřejnosti a více sportovním subjektům. Podporujeme dostupné, multifunkční a bezbariérové hřiště a sportoviště pro širokou veřejnost. Chceme také, aby sportoviště při školách mohla využívat široká veřejnost a tím zároveň rozvíjet roli škol jako komunitních center. Jedním ze základních kritérií bude posouzení využitelnosti a užitných parametrů stavby na základě předložení stavebně-technického řešení minimálně ve stupni architektonické studie.
  
 **Podpoříme pohyb dětí** <br>
-Budeme systematicky rozvíjet pohybovou gramotnost a pozitivní vztah k pohybovým aktivitám na školkách a školách (například projekt trenéři do škol, se Sokolem do života atp.)
+Budeme systematicky rozvíjet pohybovou gramotnost a pozitivní vztah k pohybovým aktivitám na školkách a školách (například projekt trenéři do škol, se Sokolem do života atp.).
 
 
 [Kandidátka 2022](/volby-2022/)
