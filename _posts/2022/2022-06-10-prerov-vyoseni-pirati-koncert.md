@@ -5,7 +5,7 @@ title: "Již 6. ročník hudebního festivalu VyOsení je tady"
 date: 2022-06-10
 tags: přerov
 author: Jaromír Horký
-image: articles/2022/022-06-10-prerov-vyoseni-koncert.jpeg  #751x422 pixelu
+image: articles/2022/2022-06-10-prerov-vyoseni-koncert.jpeg  #751x422 pixelu
 ---
 
 Hudby plný talíř, OSA ani halíř! 🏴‍☠️
