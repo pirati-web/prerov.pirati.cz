@@ -11,7 +11,7 @@ perex: >
 order: 3
 ---
 
-**Bezpečný Přerov jako priorita** <br>
+**Přerov jako bezpečný domov je naše priorita** <br>
 Jsme si vědomi toho, že bezpečnost v našem městě je jedním ze zásadních problémů. Zaměříme se především na prevenci kriminality. Zasadíme se o to, aby v Přerově bylo občanům k dispozici více asistentů prevence kriminality, než je tomu doposud, a dále také posílíme tzv. “Domovníky”, kteří jsou schopni předcházet kriminalitě přímo na exponovaných místech. Zasadíme se o výstavbu “chytrých” stojanů na kola, abychom předešli krádežím. Je potřeba podpořit neziskové organizace, které se dlouhodobě prevencí kriminality zabývají, a pro jejich snažení jim vytvořit nejlepší podmínky.
  
 **Městská policie**<br>
