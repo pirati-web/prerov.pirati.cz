@@ -163,7 +163,7 @@ head:
       age: 32
       profession: technický referent, malíř
       city: Přerov I - Město
-      partyUid: bezpp
+      partyUid: pirati
       
     - uid: jan.klimek
       position: 21
@@ -208,7 +208,7 @@ head:
     - uid: adam.hobza
       position: 26
       name: Adam Hobza
-      age: 38
+      age: 25
       profession: prodejce automobilů, zpěvák
       city: Přerov I - Město
       partyUid: pirati
