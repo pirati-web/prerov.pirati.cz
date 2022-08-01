@@ -19,7 +19,7 @@ profiles:
 heroImg: banner_prerov.jpg
 published: true
 ---
-doc. JUDr. Petr Dostalík, Ph.D. (*1979) je přerovský rodák, registrovaný příznivec Pirátské strany. Pracuje jako docent oboru římského práva na Univerzitě Karlově v Praze. 
+doc. JUDr. Petr Dostalík, Ph.D. (*1979) je přerovský rodák, registrovaný příznivec Pirátské strany. Pracuje jako docent oboru římského práva na Palackého univerzitě v Olomouci. 
 
 Petr Dostalík se narodil v Přerově, ve kterém žije se svou manželku a dvěmi dětmi.
 Přestože ho jeho povolání často odvádí na různá a často i vzdálená místa do Přerova se vždy vrací rád a považuje ho za svůj domov. Vystudoval právo na Univerzitě Palackého v Olomouci a postgraduální studium zakončil na brněnské Masarykově univerzitě. 
