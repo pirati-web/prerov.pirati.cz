@@ -16,4 +16,4 @@ Od rozhodnutí o vytvoření participativního rozpočtu uběhly bezmála dva m�
 
 
 *„Chci v Přerově..komunitní zahrádku na Želátovské, kavárnu a letní kino v Předmostí, víc stromů a květin ať v létě není vedro!“* Nejen s těmito slogany zahájili Piráti v Přerově na své náklady informační kampaň k participativnímu rozpočtu města. Výzvy k zapojení veřejnosti na participativním rozpočtu Piráti zveřejňují na svých sociálních sítích už od začátku dubna a v tomto týdnu začnou kampaň šířit i v ulicích Přerova. Věří, že díky této propagaci získá město spoustu podnětných návrhů do participativního rozpočtu, které mohou obyvatelé Přerova zasílat do konce dubna prostřednictvím portálu **[chcivprerove.eu](https://participace.mobilnirozhlas.cz/prerov/){:target='_blank'}**. Samotní členové Pirátů se chystají podat do tohoto rozpočtu 12 návrhů.
-![Ukázka kampaně(https://a.pirati.cz/prerov/img/lenka_pomaha.jpg)
+![Ukázka kampaně](https://a.pirati.cz/prerov/img/lenka_pomaha.jpg)
