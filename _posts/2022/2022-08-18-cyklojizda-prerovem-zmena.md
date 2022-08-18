@@ -5,7 +5,7 @@ title: "Přerovem na kole! Přidejte se na cyklojízdu za změnu v Přerově"
 date: 2022-08-18
 tags: přerov
 author: Jaromír Horký
-image: articles/2022/2022-08-18-cyklojizda-prerovem-zmena.jpg  #751x422 pixelu
+image: articles/2022/2022-08-18-cyklojizda-prerovem-zmena.png  #751x422 pixelu
 ---
 Vydejte se s námi Přerovem na kole! Projedeme sídliště, ale i přírodou a na jasných příkladech si ukážeme, jak chceme změnit Přerov k lepšímu!
 
@@ -17,4 +17,4 @@ Nafoukněte kola, vezměte helmy a jedem! Moc se na vás těšíme!
 
 Trasa cyklojízdy:
 
-![trasa](https://a.pirati.cz/prerov/img/articles/2022/trasa.jpg)
+![trasa](https://a.pirati.cz/prerov/img/articles/2022/trasa.png)
