@@ -26,4 +26,4 @@ a čtvrtý projekt, který uspěl je rozhledna na Čekyňáku(Petr Chmelař), kt
 
 Více informací a statistik naleznete zde ⤵️
 
-[Výsledky participativního rozpočtu]([https://participace.mobilnirozhlas.cz/prerov/](https://www.prerov.eu/cs/magistrat/tiskove-centrum/tiskove-zpravy-2022/tz-srpen-2022/co-si-preji-prerovane-kino-kose-na-psi-exkrementy-zelene-zastavky-a-rozhlednu.html?fbclid=IwAR2sUdyDjf7ZgFHU-Kg6w28GGkCs_Zz49lNADgJzmSzg2W34AeAKA71P8fU)){:target='_blank'}
+[Výsledky participativního rozpočtu](https://participace.mobilnirozhlas.cz/prerov/](https://www.prerov.eu/cs/magistrat/tiskove-centrum/tiskove-zpravy-2022/tz-srpen-2022/co-si-preji-prerovane-kino-kose-na-psi-exkrementy-zelene-zastavky-a-rozhlednu.html?fbclid=IwAR2sUdyDjf7ZgFHU-Kg6w28GGkCs_Zz49lNADgJzmSzg2W34AeAKA71P8fU){:target='_blank'}
