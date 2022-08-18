@@ -13,6 +13,8 @@ Start bude ve 14:00 u Sokolovny. Trasa bude mít 8 km a několik zastávek, tak�
 
 Nafoukněte kola, vezměte helmy a jedem! Moc se na vás těšíme!
 
+[Odkaz na Facebookovou událost](https://www.facebook.com/events/596373805470383){:target='_blank'}
+
 Trasa cyklojízdy:
 
 ![trasa](https://a.pirati.cz/prerov/img/articles/2022/trasa.jpg)
