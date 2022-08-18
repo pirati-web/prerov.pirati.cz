@@ -5,7 +5,7 @@ title: "Vydejte se po stopách pirátského pokladu na Laguně. Již na začátk
 date: 2022-08-17
 tags: přerov
 author: Jaromír Horký
-image: articles/2022/2022-08-17-prerov-pirati-usporadaji-detsky-den.jpg  #751x422 pixelu
+image: articles/2022/2022-08-17-prerov-pirati-usporadaji-detsky-den.png  #751x422 pixelu
 ---
 
 Už po třetí uspořádáme pirátkou pátračku na laguně! Vydejte se s námi po stopách pirátského pokladu! ⚓⛵⚓
@@ -20,3 +20,5 @@ Co vás čeká?💎Na začátku Laguny (směrem od skateparku) si v pirátském 
 Co si vzít s sebou❓ Psací potřeby a dobrou náladu 😊
 
 Doprovodný program: Skákací hrad, pexeso, omalovánky, malování na obličej🎨
+[Odkaz na Facebookovou událost](https://www.facebook.com/events/575073900796425))){:target='_blank'}
+
