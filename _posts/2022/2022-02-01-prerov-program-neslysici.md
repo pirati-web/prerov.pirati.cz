@@ -9,7 +9,7 @@ image: articles/2022/neslysici.png
 ---
 Vážíme si všech. I těch, kteří mají život složitější než druzí. Chceme, aby se už na nikoho nezapomínalo. Nejen v krizi. Mysleme i na druhé. 
 
-Náš program pro neslyšící najdete zde: ![programové video](https://a.pirati.cz/prerov/img/articles/2022/neslysici.mp4)
+{% include youtube.html id="lDxSCWxPJaE" %}
 
 
 Souhrnný program pro Přerov najdete [zde](https://prerov.pirati.cz/volby-2022/?pohled=program){:target='_blank'}
