@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Připravili jsme program pro neslyšící"
-date: 2022-02-01
+date: 2022-09-01
 tags: přerov
 author: Jaromír Horký
 image: articles/2022/neslysici.png
