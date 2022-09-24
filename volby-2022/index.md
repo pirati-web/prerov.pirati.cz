@@ -23,6 +23,3 @@ hideCandidateSocialProfiles: true
 <div class="mt-4 md:mt-8 space-y-4">
   {% include buttons/icon.html icon="ico--chevron-right" href="/volby-2020/kodex-zastupitele-2022.pdf" cta="Kodex kandidáta" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
 </div>
-<div class="mt-4 md:mt-8 space-y-4">
-  {% include buttons/icon.html icon="ico--chevron-right" href="https://a.pirati.cz/prerov/listy/Povolebni_strategie.pdf" cta="Povolební strategie" class="btn--blue-300 btn--hoveractive btn--fullwidth md:btn--autowidth text-lg" %}
-</div>
