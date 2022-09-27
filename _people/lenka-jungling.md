@@ -9,7 +9,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Místopředsedkyně místního sdružení
 img: people/stred.jpg             # 165 x 220
 img-full: people/stred.jpg                   # větší obrázek zobrazený na podrobném profilu
-description: 1. místopředsedkyně místního sdružení Přerov, správce pirátského centra, podnikatelka                # kratký popis, max 160 znaků
+description: zastupitelka města Přerova, 1. místopředsedkyně místního sdružení Přerov, podnikatelka                # kratký popis, max 160 znaků
 mail:
 - lenka.jungling@pirati.cz
 mob: 778 522 095
