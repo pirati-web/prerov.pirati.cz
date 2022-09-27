@@ -7,7 +7,7 @@ category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 position: Zastupitel města Přerova
 img: people/dostalik.jpg           # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
-description: univerzitní pedagog, právník               # kratký popis, max 160 znaků
+description: zastupitel města Přerova, univerzitní pedagog, právník               # kratký popis, max 160 znaků
 mail:
 - 
 mob:         
