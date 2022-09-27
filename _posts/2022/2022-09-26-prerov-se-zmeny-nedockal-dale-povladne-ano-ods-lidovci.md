@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Přerov se změny nedočkal. Dále povládne ANO,ODS a Lidovci"
+title: "Přerov se změny nedočkal. Dále povládne ANO, ODS a Lidovci"
 date: 2022-09-26
 tags: přerov
 author: Jaromír Horký
