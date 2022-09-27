@@ -12,7 +12,7 @@ groups:
   - name: Krajští zastupitelé
     category: kraj-zastupitele
     sort: ordzask
-  - name: Místní zastupitelé
+  - name: Přerovští zastupitelé
     category: zastupitele
     sort: ordzas
   - name: Předsednictvo Olomouckého kraje
