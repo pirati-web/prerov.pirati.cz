@@ -5,6 +5,7 @@ fullname: Ing. Lenka Jüngling   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - kontaktni_osoba
 - predsedove-ms
+- zastupitele
 position: Místopředsedkyně místního sdružení
 img: people/stred.jpg             # 165 x 220
 img-full: people/stred.jpg                   # větší obrázek zobrazený na podrobném profilu
@@ -19,6 +20,7 @@ profiles:
   flickr: 
 ordkon: 3      
 ordmis: 2
+ordzas: 1
 heroImg: banner_prerov.jpg
 published: true
 ---
