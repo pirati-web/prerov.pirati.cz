@@ -9,12 +9,12 @@ groups:
   - name: Předsednictvo místního sdružení
     category: predsedove-ms
     sort: ordmis 
-  - name: Krajští zastupitelé
-    category: kraj-zastupitele
-    sort: ordzask
   - name: Přerovští zastupitelé
     category: zastupitele
     sort: ordzas
+  - name: Krajští zastupitelé
+    category: kraj-zastupitele
+    sort: ordzask
   - name: Předsednictvo Olomouckého kraje
     category: predsednictvo
     sort: ordpre
