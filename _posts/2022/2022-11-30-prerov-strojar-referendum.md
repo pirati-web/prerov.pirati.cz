@@ -5,7 +5,7 @@ title: "Piráti společně s celou opozicí navrhnou, aby o budoucnosti hotelu S
 date: 2022-11-30
 tags: přerov
 author: Jaromír Horký
-image: articles/2022/strojar_lidem.jpg
+image: articles/2022/strojar_lidem.png
 ---
 Vedení města odmítá řešit situaci s hotelem Strojař. Alibisticky jej chtěla vyměnit za jinou budovu, aby však následně těsně před volbami tuto směnu zrušila, nyní se však prodej opět dostává na stůl. Přerováci si zaslouží cenově dostupné byty, které v tomto objektu mohou vzniknout. Společně celá opozice, proto navrhuje referendum, aby město Přerov zůstalo většinovým vlastníkem této budovy. Začali již také se sběrem podpisů pod petici.
 
