@@ -5,7 +5,7 @@ title: "Přerovská koalice odmítla referendum o Strojaři. Opozice bude pokra�
 date: 2022-12-05
 tags: přerov
 author: Jaromír Horký
-image: articles/2022/strojar_refe.png
+image: articles/2022/strojar_refe.jpg
 ---
 Na pondělním zastupitelstvu odmítla koalice opoziční návrh na vyhlášení referenda o budově hotelu Strojař. Alibisticky jej chtějí prodat a zbavit se odpovědnosti za jednu z nejvýznamnějších lokalit v centru města. Opozice proto bude pokračovat ve sběru podpisů potřebných k vyhlášení referenda.
 
