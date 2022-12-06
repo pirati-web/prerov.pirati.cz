@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Historický úspěch: Obdrželi jsme od vás 8,07 % hlasů a získali jsme 3 mandáty"
 date: 2022-09-25
-tags: přerov
+tags: přerov lenka-jungling jaroslav-krejci petr-dostalik
 author: Jaromír Horký
 image: articles/2022/volby-konec.png
 ---
