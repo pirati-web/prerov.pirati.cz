@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Nerušit, vládneme! Vedení přerova se bude kontrolovat samo, protože se bojí kontroly opozice. nedají jim většinu v kontrolním výboru ani rovnoměrné zastoupení ve finančním výboru"
 date: 2022-12-05
-tags: přerov, jaroslav-krejci, petr-dostalik, zastupitelstvo
+tags: přerov jaroslav-krejci petr-dostalik zastupitelstvo
 author: Jaromír Horký
 image: articles/2022/krejci_12.jpg
 ---
