@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Přerov se změny nedočkal. Dále povládne ANO, ODS a Lidovci"
 date: 2022-09-26
-tags: přerov
+tags: přerov lenka-jungling
 author: Jaromír Horký
 image: articles/2022/koalice_prerov.jpg
 ---
