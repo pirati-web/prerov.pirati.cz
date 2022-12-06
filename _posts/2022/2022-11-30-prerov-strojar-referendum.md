@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Piráti společně s celou opozicí navrhnou, aby o budoucnosti hotelu Strojař rozhodli občané v referendu"
 date: 2022-11-30
-tags: přerov
+tags: přerov, strojar, lenka-jungling
 author: Jaromír Horký
 image: articles/2022/strojar_lidem.png
 ---
