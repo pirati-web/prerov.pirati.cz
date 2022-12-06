@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: Přerovská koalice odmítla referendum o Strojaři. Opozice bude pokračovat ve sběru podpisů, aby odprodej budovy zvrátili"
+title: "Přerovská koalice odmítla referendum o Strojaři. Opozice bude pokračovat ve sběru podpisů, aby odprodej budovy zvrátili"
 date: 2022-12-05
 tags: přerov
 author: Jaromír Horký
