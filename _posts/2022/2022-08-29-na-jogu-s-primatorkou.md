@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Jóga a zábavné odpoledne u Galerie Přerov"
 date: 2022-08-29
-tags: přerov
+tags: přerov lenka-jungling
 author: Jaromír Horký
 image: articles/2022/2022-08-29-na-jogu-s-primatorkou.png  #751x422 pixelu
 ---
