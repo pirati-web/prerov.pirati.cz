@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Piráti nepodpořili nové vedení města, jsou proti kumulaci funkcí"
 date: 2022-10-17
-tags: přerov, lenka-jungling, zastupitelstvo
+tags: přerov lenka-jungling zastupitelstvo
 author: Jaromír Horký
 image: articles/2022/prerov-zastupitele.jpg
 ---
