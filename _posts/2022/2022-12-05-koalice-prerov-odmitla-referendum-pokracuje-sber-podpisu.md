@@ -3,7 +3,7 @@ layout: post
 category: CLANKY
 title: "Přerovská koalice odmítla referendum o Strojaři. Opozice bude pokračovat ve sběru podpisů, aby odprodej budovy zvrátili"
 date: 2022-12-05
-tags: přerov, strojar, lenka-jungling
+tags: přerov, strojar, lenka-jungling, zastupitelstvo
 author: Jaromír Horký
 image: articles/2022/strojar_refe.jpg
 ---
