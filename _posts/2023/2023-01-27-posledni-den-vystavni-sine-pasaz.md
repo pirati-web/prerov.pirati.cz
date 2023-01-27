@@ -5,7 +5,7 @@ title: "komentář Lenky Jüngling: Úředníci místo kultury? To fakt ne!"
 date: 2023-01-12
 tags: přerov lenka-jungling zastupitelstvo kultura
 author: Lenka Jüngling
-image: articles/2023/pasaz.png
+image: articles/2023/pasaz1.png
 ---
 Úředníci místo umění?🫠
 
