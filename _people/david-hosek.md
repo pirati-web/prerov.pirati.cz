@@ -19,6 +19,7 @@ profiles:
   flickr:  
 ordzask: 7
 ordzask: 3
+ordmis: 3
 heroImg: banner_prerov.jpg
 published: true
 ---
