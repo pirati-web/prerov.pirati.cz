@@ -5,10 +5,11 @@ fullname: David Hošek   # jméno s tituly etc.
 category:                     # kategorie: rp, praha, vary, hradec, jmk, senat
 - prerov
 - kraj-zastupitele
-position:
+- predsedove-ms
+position: 2. místopředseda MS
 img: people/hosek.jpg             # 165 x 220
 img-full: people/david-hosek2.jpg                     # větší obrázek zobrazený na podrobném profilu
-description: zastupitel Olomouckého kraje, produktový manažer               # kratký popis, max 160 znaků
+description: zastupitel Olomouckého kraje, 2. místopředseda MS               # kratký popis, max 160 znaků
 mail: david.hosek@pirati.cz
 mob: 731 811 105        
 profiles:
@@ -17,6 +18,7 @@ profiles:
   twitter:        
   flickr:  
 ordzask: 7
+ordzask: 3
 heroImg: banner_prerov.jpg
 published: true
 ---
