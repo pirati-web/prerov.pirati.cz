@@ -11,7 +11,7 @@ img:              # 165 x 220
 img-full:                     # větší obrázek zobrazený na podrobném profilu
 description: Mediální manažerka pro Olomoucký kraj             # kratký popis, max 160 znaků
 mail: martina.jezkova@pirati.cz
-mob: 731 515 159
+mob: +420 731 515 159
 profiles:
   github:
   facebook:  
