@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "Megalomanský projekt kanálu Dunaj-Odra-Labe jde i díky Pirátům k ledu!"
-date: 2023-02-10
+date: 2023-02-11
 tags: přerov lenka-jungling zastupitelstvo olomoucký-kraj piráti
 author: Martina Ježková
 image: articles/2023/9Q9A8474.jpg
