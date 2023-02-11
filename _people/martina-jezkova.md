@@ -5,7 +5,6 @@ fullname: Martina Ježková   # jméno s tituly etc.
 description: Mediální manažerka pro Olomoucký kraj
 category:
   - dalsi
-  - koordinatori
   - kontaktni_osoba
 position: Mediální manažerka pro Olomoucký kraj
 img:              # 165 x 220
