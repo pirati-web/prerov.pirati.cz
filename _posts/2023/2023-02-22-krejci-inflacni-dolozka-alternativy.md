@@ -5,7 +5,7 @@ title: "tisková zpráva: Ceny pronájmu městských bytů se mají zvednou o in
 date: 2023-02-22
 tags: přerov jaroslav-krejci zastupitelstvo
 author: Martina Ježková
-image: articles/2023/krejci_dolozka_uprav.png
+image: articles/2023/krejci_dolozka.jpeg
 ---
 *Přerov, 22. února 2023 -* **Vedení města Přerov má v plánu zvednout stávajícím nájemcům městských bytů nájemné o míru inflace. Dělo se tak i v předchozích letech, letos to však bude mnohem větší skok a finanční zátěž. Od května se těmto lidem zvýší nájmy o 15,1 %. Pirátský zastupitel Jaroslav Krejčí proto pro letošní rok navrhne na zastupitelstvu schůdnější řešení - zvýšení nájemného o průměrnou inflaci za tři roky.**
 
