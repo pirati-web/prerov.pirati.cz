@@ -2,7 +2,7 @@
 layout: post
 category: CLANKY
 title: "tisková zpráva: Ceny pronájmu městských bytů se mají zvednou o inflaci 15,1 %. Piráti chtějí na zastupitelstvu navrhnout kompromisní řešení"
-date: 2023-01-12
+date: 2023-02-22
 tags: přerov jaroslav-krejci zastupitelstvo
 author: Martina Ježková
 image: articles/2023/krejci_dolozka.jpg
