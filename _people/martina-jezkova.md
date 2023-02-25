@@ -1,6 +1,6 @@
 ---
 uid: martina.jezkova
-name:    Martina ježková     # běžně používané jméno
+name:    Martina Ježková     # běžně používané jméno
 fullname: Martina Ježková   # jméno s tituly etc.
 description: Mediální manažerka pro Olomoucký kraj
 category:
