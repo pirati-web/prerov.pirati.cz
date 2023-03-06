@@ -5,7 +5,7 @@ title: "tisková zpráva: Piráti na zastupitelstvu navrhli, aby si město Přer
 date: 2023-03-02
 tags: přerov zastupitelstvo
 author: Martina Ježková
-image: articles/2023/prezentace prerova.jpeg
+image: articles/2023/prezentace_prerova.jpeg
 ---
 *Přerov, 1. 3. 2023 -* **Na pondělním jednání zastupitelstva zvedli Piráti otázku marketingu města Přerova. Stalo se tak v souvislosti se zavedením služby sdílených kol, která by podle pirátské zastupitelky Lenky Jüngling měla nést znak nebo logo Přerova(které však stále chybí) a propagovat ji. Debaty o jednotném vizuálním stylu města jsou však od roku 2016 u ledu.** 
 
