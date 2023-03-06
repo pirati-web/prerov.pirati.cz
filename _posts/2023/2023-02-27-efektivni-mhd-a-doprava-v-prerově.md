@@ -5,7 +5,7 @@ title: "tisková zpráva: Piráti navrhli zefektivnit MHD a dopravu v Přerově"
 date: 2023-02-27
 tags: přerov petr-dostalik lenka-jüngling zastupitelstvo
 author: Martina Ježková
-image: articles/2023/dostalik mhd.jpg
+image: articles/2023/dostalik_mhd.jpg
 ---
 *Přerov 27.2.2023 -* **Piráti na dnešním zasedání zastupitelstva navrhli zefektivnění přerovského MHD. Město sice instalovalo QR kódy, které poskytují určité informace o spojích, a plánuje i světelné tabule, nicméně tato opatření zdejší stav nezlepší. Piráti proto navrhují hned několik změn, které MHD i dopravu posunou k lepšímu.**
 
