@@ -1,7 +1,7 @@
 ---
 layout: post
 category: CLANKY
-title: "Parkovací anarchie v Přerově je neúnosná. Piráti navrhují řešení"
+title: "tisková zpráva: Parkovací anarchie v Přerově je neúnosná. Piráti navrhují řešení"
 date: 2023-03-14
 tags: přerov petr-dostalik david-hosek
 author: Martina Ježková
